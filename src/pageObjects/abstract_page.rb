@@ -19,7 +19,7 @@ class AbstractPage
   end
 
   def getText(cssPath)
-    wait = Selenium::WebDriver::Wait.new(:timeout => 20)
+    wait = Selenium::WebDriver::Wait.new(:timeout => 60)
     wait.until {
       element = @@driver.find_element(:css => cssPath)
       element if element.displayed?
