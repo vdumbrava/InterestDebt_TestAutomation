@@ -15,15 +15,15 @@ class TestSpec < AbstractPage
   # app.navigateToModuleMatrixPage.navigateToItd_1.navigateToItd_2
   end
 
-describe 'Testing fonts in ITD_1' do
+describe 'Testing fonts in Objective 1' do
 
   page = nil
 
-  before(:each) do
+  before(:all) do
     page = AbstractPage.new(Selenium::WebDriver.for :firefox)
   end
 
-  after(:each) do
+  after(:all) do
     page.quit
   end
 
@@ -43,6 +43,31 @@ describe 'Testing fonts in ITD_1' do
         .checkText("How repayment works", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
         .getText("#page-container > div > div.fadeIn.animated.itd-intro-text.js-itd-intro-text > div:nth-child(3) > div > div > div > ul > li.bullet-4.fadeIn.animated > p")
         .checkText("Tips for staying on top of your student loan debt", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
+  end
+
+  it "should Go to ITD_2 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_2
+        .getText("")
+        .checkText("Lender", "30px", "\"opensans_regular\"","rgba(110, 108, 111, 1)")
+        .getText("")
+        .checkText("Loan", "30px", "\"opensans_regular\"","rgba(110, 108, 111, 1)")
+        .getText("")
+        .checkText("Principal", "15px", "\"opensans_semibold\"","rgba(110, 108, 111, 1)")
+        .getText("")
+        .checkText("Interest", "15px", "\"opensans_semibold\"","rgba(110, 108, 111, 1)")
+        .getText("")
+        .checkText("Fees", "15px", "\"opensans_semibold\"","rgba(110, 108, 111, 1)")
+        .getText("")
+        .checkText("Fixed Interest", "35px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("An interest rate that remains the same over the course of the entire loan.", "20px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Variable Interest", "35px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("An interest rate that is tied to an index and will change periodically over the course of an entire loan.", "20px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
   end
 
   it "should Go to ITD_3 and check Text" do
@@ -101,7 +126,7 @@ describe 'Testing fonts in ITD_1' do
         .checkText("Congress sets loan interest rates based on financial markets and other factors", "15px", "\"opensans_light\"","rgba(06,105,105, 1)")
   end
 
-  it "should Go to ITD_6 and check Text" do
+  it "should Go to ITD_5 and check Text" do
     page
         .navigateToModuleMatrixPage
         .navigateToItd_1
@@ -109,6 +134,38 @@ describe 'Testing fonts in ITD_1' do
         .navigateToItd_3
         .navigateToItd_4
         .navigateToItd_5
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+  end # KC1
+
+end
+
+describe 'Testing fonts in Objective 2' do
+
+  page = nil
+
+  before(:all) do
+    page = AbstractPage.new(Selenium::WebDriver.for :firefox)
+  end
+
+  after(:all) do
+    page.quit
+  end
+
+  it "should Go to ITD_6 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
         .navigateToItd_6
         .getText("#page-container > div > div.container-table.js-container-table > div > div > div > div.text-center.table-header > div > div")
         .checkText("Repayment", "35px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
@@ -135,5 +192,308 @@ describe 'Testing fonts in ITD_1' do
         .getText("#page-container > div > div.text-center.container-calendar-grace.js-container-calendar-grace > div > div > div > div.graph-fill.js-graph > div:nth-child(2) > div")
         .checkText("Interest building", "15px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
   end
+
+  it "should Go to ITD_7 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_6
+        .navigateToItd_7
+        .getText("")
+        .checkText("What happens when I have more than one loan?", "25px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Fees", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Interest", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Principal", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Loan 1", "15px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Which part of my loan do my payments go to?", "25px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Fees", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Interest", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Principal", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Loan 2", "15px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+  end
+
+  it "should Go to ITD_8 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_6
+        .navigateToItd_7
+        .navigateToItd_8
+        .getText("")
+        .checkText("What happens if I don’t pay the interest on my loan?", "30px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("What happens if I don’t pay the interest on my loan?", "30px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Capitalization is the addition of unpaid interest to the principal balance of a loan", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("If interest is not paid as it accrues, your lender may capitalize it", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("This will increase the principal and the total cost of the loan, and can increase your monthly payments", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Tip: If you are financially capable, you should pay the interest on your loans during your schooling, to avoid capitalization.", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("January", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("February", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("March", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("April", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("May", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("June", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("July", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("August", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("September", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("October", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("November", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("December", "20px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Interest", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("Principal", "15px", "\"opensans_semibold\"","rgba(100, 108, 111, 1)")
+  end
+
+  it "should Go to ITD_9 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_6
+        .navigateToItd_7
+        .navigateToItd_8
+        .navigateToItd_9
+        .getText("")
+        .checkText("How much should I pay each month?", "25px", "\"opensans_regular\"","rgba(100, 108, 111, 1)")
+        .getText("")
+        .checkText("At minimum, keep up with each month’s interest and any fees", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("The rest of your payment goes towards the principal", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Overpayment is a great idea for chipping away at your principal, faster -- and lowering your interest payments at the same time!", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("You may also choose to make an overpayment if you want to cover future payment(s), for instance if you are going on vacation", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Month 1", "20px", "\"opensans_ligt\"","rgba(127, 127, 127, 1)")
+        .getText("")
+        .checkText("Month 2", "20px", "\"opensans_ligt\"","rgba(127, 127, 127, 1)")
+        .getText("")
+        .checkText("Month 3", "20px", "\"opensans_ligt\"","rgba(127, 127, 127, 1)")
+  end
+
+  it "should Go to ITD_10 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_6
+        .navigateToItd_7
+        .navigateToItd_8
+        .navigateToItd_9
+        .navigateToItd_10
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+  end # KC2
+
+end
+
+describe 'Testing fonts in Objective 3' do
+
+  page = nil
+
+  before(:all) do
+    page = AbstractPage.new(Selenium::WebDriver.for :firefox)
+  end
+
+  after(:all) do
+    page.quit
+  end
+
+  it "should Go to ITD_11 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_11
+        .getText("")
+        .checkText("What can I do if I am having trouble making my loan payments?", "25px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Deferment", "20px", "\"opensans_semibold\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Forbeance", "20px", "\"opensans_semibold\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("A postponement of payment on a loan that is allowed under certain conditions", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Interest does not accrue during deferment on Direct Subsidized Loans, Subsidized Federal Stafford Loans, and Federal Perkins Loans", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("All other federal student loans that are deferred will continue to accrue interest", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Any unpaid interest that accrued during the deferment period may be capitalized", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("A period during which your monthly loan payments are temporarily suspended or reduced", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Principal payments are postponed but interest continues to accrue", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Unpaid interest that accrues during the forbearance will be capitalized, increasing the total amount you owe", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("What happens if I don’t make my payments?", "25px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Delinquent", "20px", "\"opensans_semibold\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("When the servicer does not receive payments by the due date", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("A loan remains delinquent until the borrower makes up the missed payment(s) through payment, deferment or forbearance", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Missed payments may result in assessment of late fees and negative credit reporting", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("If you are unable to make payments, you should contact your loan servicer to discuss options to keep the loan in good standing", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Being delinquent by not making the minimum payment due may have a negative impact on your credit score", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .checkText("What happens if I stop paying altogheter?", "25px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Default", "20px", "\"opensans_semibold\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Failing to repay a loan according to the terms agreed to in your Master Promissory Note", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("For most federal student loans, a loan defaults if there have been no payments in more than 270 days", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("For private student loans, consult your servicer to find out the time period in which a loan defaults", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("You may experience serious legal consequences if you default", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Defaulting on your student loans may have a negative impact on your credit score", "15px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+
+  end
+
+  it "should Go to ITD_12 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_11
+        .navigateToItd_12
+        .getText("")
+        .checkText("Stay on top of your student loans", "35px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Check out “5 Habits of Successful Student Loan Borrowers” for more ideas.", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("Avoid forbearance", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Stick with repayment", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Sign up for auto debit", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Stay connected", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Establish an online account", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+        .checkText("Talk to your servicer", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+        .getText("")
+  end
+
+  it "should Go to ITD_13 and check Text" do
+    page
+        .navigateToModuleMatrixPage
+        .navigateToItd_1
+        .navigateToItd_11
+        .navigateToItd_12
+        .navigateToItd_13
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+        .getText("")
+        .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+  end # KC3
+
+end
+
+describe 'Testing fonts in Summary' do
+
+  page = nil
+
+  before(:all) do
+    page = AbstractPage.new(Selenium::WebDriver.for :firefox)
+  end
+
+  after(:all) do
+    page.quit
+  end
+
+# it "should Go to ITD_14 and check Text" do
+#   page
+#       .navigateToModuleMatrixPage
+#       .navigateToItd_1
+#       .navigateToItd_14
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+#       .getText("")
+#       .checkText("", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+# end # Poll
+
+it "should Go to ITD_15 and check Text" do
+   page
+      .navigateToModuleMatrixPage
+      .navigateToItd_1
+      .navigateToItd_14
+      .navigateToItd_15
+      .getText("#page-container > div > div.items > div:nth-child(2) > div > div > div.drivenHeader.fadeIn.animated > div > div")
+      .checkText("Summary", "45px", "\"opensans_regular\"","rgba(0, 0, 0, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(2) > div > div > div.list.fadeIn.animated > ul > li:nth-child(1) > p")
+      .checkText("Know the terms of your loan and how it works", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(2) > div > div > div.list.fadeIn.animated > ul > li:nth-child(2) > p")
+      .checkText("Come up with a plan for repayment and adjust as necessary", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(2) > div > div > div.list.fadeIn.animated > ul > li:nth-child(3) > p")
+      .checkText("Contact your loan servicer with any questions or to utilize valuable resources", "20px", "\"opensans_light\"","rgba(0, 0, 0, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div:nth-child(1) > div")
+      .checkText("Knowledge Check Score", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(2) > div")
+      .checkText("out of", "25px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div.item.feedback > div")
+       .checkText("Good effort,
+but you might want to go back and review the concepts you missed", "20px", "\"opensans_light\"","rgba(255, 255, 255, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(1) > div")
+      .checkText("0", "125px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3) > div")
+      .checkText("3", "125px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+      .getText("#page-container > div > div.items > div:nth-child(1) > div > div > div > div:nth-child(2) > div > div > div > div:nth-child(3) > div")
+      .checkText("3", "125px", "\"opensans_regular\"","rgba(255, 255, 255, 1)")
+end # Summary
 
 end

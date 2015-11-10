@@ -11,7 +11,7 @@ class ITD_5 < AbstractPage
 
   def navigateToItd_6
     sleep 5
-    @@driver.find_element(:id => "forward_button").click
+    @@driver.find_element(:id => "activity-objective2").click
     return ITD_6.new(@@driver)
   end
 

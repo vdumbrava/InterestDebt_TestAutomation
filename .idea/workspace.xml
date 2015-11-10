@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pageObjects/itd_11.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pageObjects/itd_12.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pageObjects/itd_13.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pageObjects/itd_14.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pageObjects/itd_15.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterestDebt.iml" afterPath="$PROJECT_DIR$/.idea/InterestDebt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_10.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_10.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_5.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_5.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_7.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_7.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_8.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_8.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_9.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_9.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/test_spec.rb" afterPath="$PROJECT_DIR$/src/test/test_spec.rb" />
     </list>
     <ignored path="InterestDebt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,6 +29,9 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_2_should_Go_to_ITD_6_and_check_Text__InterestDebt.coverage" NAME="Testing fonts in Objective 2 should Go to ITD_6 and check Text: InterestDebt Coverage Results" MODIFIED="1447162185429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_1__InterestDebt.coverage" NAME="Testing fonts in Objective 1: InterestDebt Coverage Results" MODIFIED="1447161724949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Summary__InterestDebt.coverage" NAME="Testing fonts in Summary: InterestDebt Coverage Results" MODIFIED="1447169689300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_ITD_1__InterestDebt.coverage" NAME="Testing fonts in ITD_1: InterestDebt Coverage Results" MODIFIED="1447159461507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -31,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -41,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,57 +67,67 @@
         <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="132" column="3" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
+      <file leaf-file-name="itd_10.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_10.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_3.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
+      <file leaf-file-name="itd_11.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_11.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_4.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+      <file leaf-file-name="itd_12.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_12.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="5" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_5.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_5.rb">
+      <file leaf-file-name="itd_13.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_13.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="5" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_6.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_6.rb">
+      <file leaf-file-name="itd_14.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_14.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itd_15.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_15.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -110,13 +136,32 @@
       <file leaf-file-name="test_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6079078">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.44810542">
+              <caret line="152" column="38" selection-start-line="152" selection-start-column="10" selection-end-line="152" selection-end-column="38" />
               <folding>
-                <element signature="e#714#2399#0" expanded="false" />
-                <element signature="e#2442#6388#0" expanded="false" />
-                <element signature="e#6431#7894#0" expanded="false" />
-                <element signature="e#7937#12155#0" expanded="false" />
+                <element signature="e#567#637#0" expanded="false" />
+                <element signature="e#653#675#0" expanded="false" />
+                <element signature="e#718#2403#0" expanded="false" />
+                <element signature="e#2446#3702#0" expanded="false" />
+                <element signature="e#3745#7691#0" expanded="false" />
+                <element signature="e#7734#9197#0" expanded="false" />
+                <element signature="e#9240#9988#0" expanded="false" />
+                <element signature="e#10074#10144#0" expanded="false" />
+                <element signature="e#10160#10182#0" expanded="false" />
+                <element signature="e#10225#14343#0" expanded="false" />
+                <element signature="e#14386#15647#0" expanded="false" />
+                <element signature="e#15690#18433#0" expanded="false" />
+                <element signature="e#18476#19861#0" expanded="false" />
+                <element signature="e#19905#20679#0" expanded="false" />
+                <element signature="e#20765#20835#0" expanded="false" />
+                <element signature="e#20851#20873#0" expanded="false" />
+                <element signature="e#20917#25095#0" expanded="false" />
+                <element signature="e#25139#26299#0" expanded="false" />
+                <element signature="e#26343#27069#0" expanded="false" />
+                <element signature="e#27151#27221#0" expanded="false" />
+                <element signature="e#27237#27259#0" expanded="false" />
+                <element signature="e#27124#30560#0" expanded="false" />
+                <element signature="e#28026#30560#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -142,15 +187,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/itd_2.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/itd_4.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/itd_3.rb" />
-        <option value="$PROJECT_DIR$/src/pageObjects/itd_1.rb" />
-        <option value="$PROJECT_DIR$/src/pageObjects/itd_5.rb" />
-        <option value="$PROJECT_DIR$/src/pageObjects/itd_6.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_6.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_5.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_7.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_8.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_10.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_9.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_14.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_13.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_12.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_11.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_15.rb" />
         <option value="$PROJECT_DIR$/src/test/test_spec.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/itd_1.rb" />
       </list>
     </option>
   </component>
@@ -248,94 +302,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterestDebt" />
   </component>
-  <component name="RunManager" selected="RSpec.Testing fonts in ITD_1: InterestDebt">
-    <configuration default="false" name="Run spec 'test_spec': InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="InterestDebt" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Testind fonts in ITD_1: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="InterestDebt" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testind fonts in ITD_1" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Testing fonts in ITD_1 should Go to ITD_1 and check Title: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="InterestDebt" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing fonts in ITD_1 should Go to ITD_1 and check Title" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="RSpec.Testing fonts in Summary: InterestDebt">
     <configuration default="false" name="Testing fonts in ITD_1: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="InterestDebt" />
@@ -388,6 +355,93 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Testing fonts in Objective 1: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="InterestDebt" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing fonts in Objective 1" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Testing fonts in Objective 2 should Go to ITD_6 and check Text: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="InterestDebt" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing fonts in Objective 2 should Go to ITD_6 and check Text" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Testing fonts in Summary: InterestDebt" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="InterestDebt" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src/test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/test/test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing fonts in Summary" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -504,19 +558,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.should Go to ITD_1 and check Text (test_spec.rb): InterestDebt" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'test_spec': InterestDebt" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Testind fonts in ITD_1: InterestDebt" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1 should Go to ITD_1 and check Title: InterestDebt" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1: InterestDebt" />
-      <item index="5" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Go to ITD_1 and check Title (test_spec.rb): InterestDebt" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1: InterestDebt" />
+      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Go to ITD_1 and check Title (test_spec.rb): InterestDebt" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.Testing fonts in Objective 1: InterestDebt" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Testing fonts in Objective 2 should Go to ITD_6 and check Text: InterestDebt" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.Testing fonts in Summary: InterestDebt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1: InterestDebt" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Go to ITD_1 and check Title (test_spec.rb): InterestDebt" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1 should Go to ITD_1 and check Title: InterestDebt" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Testind fonts in ITD_1: InterestDebt" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'test_spec': InterestDebt" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Testing fonts in Summary: InterestDebt" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Testing fonts in Objective 2 should Go to ITD_6 and check Text: InterestDebt" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Testing fonts in Objective 1: InterestDebt" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Testing fonts in ITD_1: InterestDebt" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Go to ITD_1 and check Title (test_spec.rb): InterestDebt" />
       </list>
     </recent_temporary>
   </component>
@@ -537,39 +591,45 @@
       <option name="project" value="LOCAL" />
       <updated>1447159630381</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="it &quot;should Go to ITD_3 and check Text&quot;&#10;it &quot;should Go to ITD_4 and check Text&quot;&#10;it &quot;should Go to ITD_6 and check Text&quot;">
+      <created>1447159725527</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1447159725527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 26m 49s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 23m 23s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 29m 39s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 24m 05s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 31m 14s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 26m 03s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 32m 29s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 26m 45s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 34m 14s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 28m 44s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 35m 32s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 29m 32s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 40m 09s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 30m 41s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 41m 38s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 31m 48s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 43m 26s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 33m 52s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_fonts_in_ITD_1__InterestDebt - 2015.11.10 at 14h 44m 52s.xml">
-      <configuration name="Testing fonts in ITD_1: InterestDebt" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Testing_fonts_in_Summary__InterestDebt - 2015.11.10 at 17h 35m 15s.xml">
+      <configuration name="Testing fonts in Summary: InterestDebt" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -619,7 +679,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -677,10 +737,29 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#714#2399#0" expanded="false" />
-            <element signature="e#2442#6388#0" expanded="false" />
-            <element signature="e#6431#7894#0" expanded="false" />
-            <element signature="e#7937#12155#0" expanded="false" />
+            <element signature="e#567#637#0" expanded="false" />
+            <element signature="e#653#675#0" expanded="false" />
+            <element signature="e#718#2403#0" expanded="false" />
+            <element signature="e#2446#3702#0" expanded="false" />
+            <element signature="e#3745#7691#0" expanded="false" />
+            <element signature="e#7734#9197#0" expanded="false" />
+            <element signature="e#9240#9988#0" expanded="false" />
+            <element signature="e#10074#10144#0" expanded="false" />
+            <element signature="e#10160#10182#0" expanded="false" />
+            <element signature="e#10225#14343#0" expanded="false" />
+            <element signature="e#14386#15647#0" expanded="false" />
+            <element signature="e#15690#18433#0" expanded="false" />
+            <element signature="e#18476#19861#0" expanded="false" />
+            <element signature="e#19905#20679#0" expanded="false" />
+            <element signature="e#20765#20835#0" expanded="false" />
+            <element signature="e#20851#20873#0" expanded="false" />
+            <element signature="e#20917#25095#0" expanded="false" />
+            <element signature="e#25139#26299#0" expanded="false" />
+            <element signature="e#26343#27069#0" expanded="false" />
+            <element signature="e#27151#27221#0" expanded="false" />
+            <element signature="e#27237#27259#0" expanded="false" />
+            <element signature="e#27124#30560#0" expanded="false" />
+            <element signature="e#28026#30560#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -738,10 +817,29 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#714#2399#0" expanded="false" />
-            <element signature="e#2442#6388#0" expanded="false" />
-            <element signature="e#6431#7894#0" expanded="false" />
-            <element signature="e#7937#12155#0" expanded="false" />
+            <element signature="e#567#637#0" expanded="false" />
+            <element signature="e#653#675#0" expanded="false" />
+            <element signature="e#718#2403#0" expanded="false" />
+            <element signature="e#2446#3702#0" expanded="false" />
+            <element signature="e#3745#7691#0" expanded="false" />
+            <element signature="e#7734#9197#0" expanded="false" />
+            <element signature="e#9240#9988#0" expanded="false" />
+            <element signature="e#10074#10144#0" expanded="false" />
+            <element signature="e#10160#10182#0" expanded="false" />
+            <element signature="e#10225#14343#0" expanded="false" />
+            <element signature="e#14386#15647#0" expanded="false" />
+            <element signature="e#15690#18433#0" expanded="false" />
+            <element signature="e#18476#19861#0" expanded="false" />
+            <element signature="e#19905#20679#0" expanded="false" />
+            <element signature="e#20765#20835#0" expanded="false" />
+            <element signature="e#20851#20873#0" expanded="false" />
+            <element signature="e#20917#25095#0" expanded="false" />
+            <element signature="e#25139#26299#0" expanded="false" />
+            <element signature="e#26343#27069#0" expanded="false" />
+            <element signature="e#27151#27221#0" expanded="false" />
+            <element signature="e#27237#27259#0" expanded="false" />
+            <element signature="e#27124#30560#0" expanded="false" />
+            <element signature="e#28026#30560#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -799,10 +897,29 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#714#2399#0" expanded="false" />
-            <element signature="e#2442#6388#0" expanded="false" />
-            <element signature="e#6431#7894#0" expanded="false" />
-            <element signature="e#7937#12155#0" expanded="false" />
+            <element signature="e#567#637#0" expanded="false" />
+            <element signature="e#653#675#0" expanded="false" />
+            <element signature="e#718#2403#0" expanded="false" />
+            <element signature="e#2446#3702#0" expanded="false" />
+            <element signature="e#3745#7691#0" expanded="false" />
+            <element signature="e#7734#9197#0" expanded="false" />
+            <element signature="e#9240#9988#0" expanded="false" />
+            <element signature="e#10074#10144#0" expanded="false" />
+            <element signature="e#10160#10182#0" expanded="false" />
+            <element signature="e#10225#14343#0" expanded="false" />
+            <element signature="e#14386#15647#0" expanded="false" />
+            <element signature="e#15690#18433#0" expanded="false" />
+            <element signature="e#18476#19861#0" expanded="false" />
+            <element signature="e#19905#20679#0" expanded="false" />
+            <element signature="e#20765#20835#0" expanded="false" />
+            <element signature="e#20851#20873#0" expanded="false" />
+            <element signature="e#20917#25095#0" expanded="false" />
+            <element signature="e#25139#26299#0" expanded="false" />
+            <element signature="e#26343#27069#0" expanded="false" />
+            <element signature="e#27151#27221#0" expanded="false" />
+            <element signature="e#27237#27259#0" expanded="false" />
+            <element signature="e#27124#30560#0" expanded="false" />
+            <element signature="e#28026#30560#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,39 +977,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#714#2399#0" expanded="false" />
-            <element signature="e#2442#6388#0" expanded="false" />
-            <element signature="e#6431#7894#0" expanded="false" />
-            <element signature="e#7937#12155#0" expanded="false" />
+            <element signature="e#567#637#0" expanded="false" />
+            <element signature="e#653#675#0" expanded="false" />
+            <element signature="e#718#2403#0" expanded="false" />
+            <element signature="e#2446#3702#0" expanded="false" />
+            <element signature="e#3745#7691#0" expanded="false" />
+            <element signature="e#7734#9197#0" expanded="false" />
+            <element signature="e#9240#9988#0" expanded="false" />
+            <element signature="e#10074#10144#0" expanded="false" />
+            <element signature="e#10160#10182#0" expanded="false" />
+            <element signature="e#10225#14343#0" expanded="false" />
+            <element signature="e#14386#15647#0" expanded="false" />
+            <element signature="e#15690#18433#0" expanded="false" />
+            <element signature="e#18476#19861#0" expanded="false" />
+            <element signature="e#19905#20679#0" expanded="false" />
+            <element signature="e#20765#20835#0" expanded="false" />
+            <element signature="e#20851#20873#0" expanded="false" />
+            <element signature="e#20917#25095#0" expanded="false" />
+            <element signature="e#25139#26299#0" expanded="false" />
+            <element signature="e#26343#27069#0" expanded="false" />
+            <element signature="e#27151#27221#0" expanded="false" />
+            <element signature="e#27237#27259#0" expanded="false" />
+            <element signature="e#27124#30560#0" expanded="false" />
+            <element signature="e#28026#30560#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_8.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_9.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_10.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -910,34 +1018,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="132" column="3" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -950,10 +1034,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_5.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="5" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -961,7 +1053,87 @@
     <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_6.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_7.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="5" selection-start-column="1" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_9.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_8.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="5" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_14.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_13.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_12.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_10.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_11.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -969,20 +1141,47 @@
     <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_15.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6079078">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.44810542">
+          <caret line="152" column="38" selection-start-line="152" selection-start-column="10" selection-end-line="152" selection-end-column="38" />
           <folding>
-            <element signature="e#714#2399#0" expanded="false" />
-            <element signature="e#2442#6388#0" expanded="false" />
-            <element signature="e#6431#7894#0" expanded="false" />
-            <element signature="e#7937#12155#0" expanded="false" />
+            <element signature="e#567#637#0" expanded="false" />
+            <element signature="e#653#675#0" expanded="false" />
+            <element signature="e#718#2403#0" expanded="false" />
+            <element signature="e#2446#3702#0" expanded="false" />
+            <element signature="e#3745#7691#0" expanded="false" />
+            <element signature="e#7734#9197#0" expanded="false" />
+            <element signature="e#9240#9988#0" expanded="false" />
+            <element signature="e#10074#10144#0" expanded="false" />
+            <element signature="e#10160#10182#0" expanded="false" />
+            <element signature="e#10225#14343#0" expanded="false" />
+            <element signature="e#14386#15647#0" expanded="false" />
+            <element signature="e#15690#18433#0" expanded="false" />
+            <element signature="e#18476#19861#0" expanded="false" />
+            <element signature="e#19905#20679#0" expanded="false" />
+            <element signature="e#20765#20835#0" expanded="false" />
+            <element signature="e#20851#20873#0" expanded="false" />
+            <element signature="e#20917#25095#0" expanded="false" />
+            <element signature="e#25139#26299#0" expanded="false" />
+            <element signature="e#26343#27069#0" expanded="false" />
+            <element signature="e#27151#27221#0" expanded="false" />
+            <element signature="e#27237#27259#0" expanded="false" />
+            <element signature="e#27124#30560#0" expanded="false" />
+            <element signature="e#28026#30560#0" expanded="false" />
           </folding>
         </state>
       </provider>
