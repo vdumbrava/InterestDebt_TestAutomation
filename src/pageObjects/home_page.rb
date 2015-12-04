@@ -10,7 +10,7 @@ class HomePage < AbstractPage
   def navigateToItd_1
     sleep 3
     @@driver.find_element(:id => "module interest_and_debt").click
-    sleep 2
+    sleep 4
     @@driver.find_element(:id => "mute_button").click
     return ITD_1.new(@@driver)
   end

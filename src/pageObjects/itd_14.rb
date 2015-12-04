@@ -10,6 +10,10 @@ class ITD_14 < AbstractPage
   end
 
   def navigateToItd_15
+
+    sleep 3
+    @@driver.find_element(:css => '#question > label:nth-child(6) > label').click
+
     sleep 5
     @@driver.find_element(:id => "forward_button").click
     return ITD_15.new(@@driver)

@@ -8,7 +8,7 @@ class ITD_15 < AbstractPage
     super(driver)
   end
 
-  def navigateToModuleMatrixPage
+  def navigateBackToModuleMatrixPage
     sleep 5
     @@driver.find_element(:id => "forward_button").click
     return HomePage.new(@@driver)

@@ -14,7 +14,9 @@ class AbstractPage
 
   def navigateToModuleMatrixPage
     @@driver.manage.window.maximize
-    @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
+    @@driver.navigate.to("http://tim-vm-020:3000")
+    # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
+    # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html#interest-and-debt/intro")
     return HomePage.new(@@driver)
   end
 
@@ -52,6 +54,23 @@ class AbstractPage
 
   def muteVolume
     @@driver.find_element(:id => "volume_button").click
+  end
+
+  def navigateToItd_9
+    sleep 7
+    @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html#interest-and-debt/objective2/page-9")
+    return ITD_9.new(@@driver)
+  end
+
+  def selectKnowledgeCheckAnswer (answer)
+    @@driver.find_element(:css => answer).click
+  end
+
+  def checkFeedback (feedback_link, expected_text)
+    @@feedback = @@driver.find_element(:css => feedback_link)
+    puts @@feedback.text
+    assert_equal(@@feedback.text, expected_text)
+    return HomePage.new(@@driver)
   end
 
 end
