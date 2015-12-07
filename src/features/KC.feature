@@ -72,14 +72,112 @@ Feature: To test Knowledge Check pages and the results in the Summary page
     When I select the third incorrect answer for KC3
     Then I get the incorrect Answer Feedback for KC3
 
-  Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page
+  Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page
 
     Given I navigate to KC1 page itd_5
     And I select the correct answer for KC1
-    Given I navigate to KC2 page itd_10
+    And I go directly to KC2 page itd_10
     And I select the correct answer for KC2
-    Given I navigate to KC3 page itd_13
+    And I go directly to KC3 page itd_13
     And I select the correct answer for KC3
-    Given I navigate to Summary page
-    Then I get three out of three
+    And I go directly to Summary page
+    Then I get 3 out of 3
 
+  Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the the first incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the the first incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the the first incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 0 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the second incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the second incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the second incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 0 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the third incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the third incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the third incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 0 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the correct answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the the first incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the the first incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 1 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the the first incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the correct answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the the first incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 1 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the the first incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the the first incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the correct answer for KC3
+    And I go directly to Summary page
+    Then I get 1 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the the first incorrect answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the correct answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the correct answer for KC3
+    And I go directly to Summary page
+    Then I get 2 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the correct answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the the first incorrect answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the correct answer for KC3
+    And I go directly to Summary page
+    Then I get 2 out of 3
+
+  Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page
+
+    Given I navigate to KC1 page itd_5
+    And I select the correct answer for KC1
+    And I go directly to KC2 page itd_10
+    And I select the correct answer for KC2
+    And I go directly to KC3 page itd_13
+    And I select the third incorrect answer for KC3
+    And I go directly to Summary page
+    Then I get 2 out of 3

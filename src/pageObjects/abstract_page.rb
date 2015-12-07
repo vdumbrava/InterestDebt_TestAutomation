@@ -14,7 +14,15 @@ class AbstractPage
 
   def navigateToModuleMatrixPage
     @@driver.manage.window.maximize
-    @@driver.navigate.to("http://tim-vm-020:3000")
+    #@@driver.navigate.to("http://tim-vm-020:3000")
+
+
+    @@driver.navigate.to("http://atwork.deverfi.net/newthadiusatwork/login")
+    @@driver.find_element(:id => "email").send_keys "vasilica.dumbrava@3pillarglobal.com"
+    @@driver.find_element(:id => "password").send_keys "navient"
+    sleep 2
+    @@driver.find_element(:name => "commit").click
+
     # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
     # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html#interest-and-debt/intro")
     return HomePage.new(@@driver)
@@ -71,6 +79,56 @@ class AbstractPage
     puts @@feedback.text
     assert_equal(@@feedback.text, expected_text)
     return HomePage.new(@@driver)
+  end
+
+  def navigateToKCWithBreadcrumbs (kc)
+    case kc
+      when "KC1"
+        @@driver.find_element(:id => "activity-objective2").click
+        sleep 2
+
+        wait = Selenium::WebDriver::Wait.new(:timeout => 15)
+        wait.until {
+          element = @@driver.find_element(:id => "back_button")
+          element if element.displayed?
+        }
+        @@driver.find_element(:id => "back_button").click
+        sleep 4
+      when "KC2"
+        @@driver.find_element(:id => "activity-objective3").click
+        sleep 2
+
+        wait = Selenium::WebDriver::Wait.new(:timeout => 15)
+        wait.until {
+          element = @@driver.find_element(:id => "back_button")
+          element if element.displayed?
+        }
+        @@driver.find_element(:id => "back_button").click
+        sleep 4
+      when "KC3"
+        @@driver.find_element(:id => "activity-summary").click
+        sleep 2
+
+        wait = Selenium::WebDriver::Wait.new(:timeout => 15)
+        wait.until {
+          element = @@driver.find_element(:id => "back_button")
+          element if element.displayed?
+        }
+        @@driver.find_element(:id => "back_button").click
+        sleep 4
+      when "Summary"
+        @@driver.find_element(:id => "activity-summary").click
+        sleep 2
+
+        wait = Selenium::WebDriver::Wait.new(:timeout => 15)
+        wait.until {
+          element = @@driver.find_element(:id => "back_button")
+          element if element.displayed?
+        }
+        @@driver.find_element(:id => "forward_button").click
+        sleep 4
+    end
+
   end
 
 end

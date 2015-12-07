@@ -1,8 +1,8 @@
 require 'selenium-webdriver'
+require 'rubygems'
 require_relative '../../../src/pageObjects/abstract_page'
 require_relative '../../../src/pageObjects/home_page'
 require_relative '../../../src/pageObjects/itd_5'
-
 
 Before  do
   @page = nil
@@ -23,7 +23,7 @@ Given(/^I navigate to KC1 page itd_5$/) do
 end
 
 When(/^I select the correct answer for KC1$/) do
-  @page.selectKnowledgeCheckAnswer("#question_1 > label:nth-child(4) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(4) > div")
   sleep 2
 end
 
@@ -42,7 +42,7 @@ Given(/^I navigate to KC2 page itd_10$/) do
 end
 
 When(/^I select the correct answer for KC2$/) do
-  @page.selectKnowledgeCheckAnswer("#question_2 > label:nth-child(2) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(2) > div")
   sleep 2
 end
 
@@ -63,7 +63,7 @@ Given(/^I navigate to KC3 page itd_13$/) do
 end
 
 When(/^I select the correct answer for KC3$/) do
-  @page.selectKnowledgeCheckAnswer("#question_3 > label:nth-child(4) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(4) > div")
   sleep 2
 end
 
@@ -78,17 +78,17 @@ Then(/^I get the Correct Answer Feedback for KC3$/) do
 end
 
 When(/^I select the the first incorrect answer for KC1$/) do
-  @page.selectKnowledgeCheckAnswer("#question_1 > label:nth-child(1) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(1) > div")
   sleep 2
 end
 
 When(/^I select the second incorrect answer for KC1$/) do
-  @page.selectKnowledgeCheckAnswer("#question_1 > label:nth-child(2) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(2) > div")
   sleep 2
 end
 
 When(/^I select the third incorrect answer for KC1$/) do
-  @page.selectKnowledgeCheckAnswer("#question_1 > label:nth-child(3) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(3) > div")
   sleep 2
 end
 
@@ -103,17 +103,17 @@ Then(/^I get the incorrect Answer Feedback for KC1$/) do
 end
 
 When(/^I select the the first incorrect answer for KC2$/) do
-  @page.selectKnowledgeCheckAnswer("#question_2 > label:nth-child(1) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(1) > div")
   sleep 2
 end
 
 When(/^I select the second incorrect answer for KC2$/) do
-  @page.selectKnowledgeCheckAnswer("#question_2 > label:nth-child(3) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(3) > div")
   sleep 2
 end
 
 When(/^I select the third incorrect answer for KC2$/) do
-  @page.selectKnowledgeCheckAnswer("#question_2 > label:nth-child(4) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(4) > div")
   sleep 2
 end
 
@@ -128,17 +128,17 @@ Then(/^I get the incorrect Answer Feedback for KC2$/) do
   end
 
 When(/^I select the the first incorrect answer for KC3$/) do
-  @page.selectKnowledgeCheckAnswer("#question_3 > label:nth-child(1) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(1) > div")
   sleep 2
 end
 
 When(/^I select the second incorrect answer for KC3$/) do
-  @page.selectKnowledgeCheckAnswer("#question_3 > label:nth-child(2) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(2) > div")
   sleep 2
 end
 
 When(/^I select the third incorrect answer for KC3$/) do
-  @page.selectKnowledgeCheckAnswer("#question_3 > label:nth-child(3) > div")
+  @page.selectKnowledgeCheckAnswer(".question_block > label:nth-child(3) > div")
   sleep 2
 end
 
@@ -159,16 +159,29 @@ Given(/^I navigate to Summary page$/) do
       .navigateToItd_15
 end
 
-Then(/^I get three out of three$/) do
+And(/^I go directly to KC1 page itd_5$/) do
+  @page.navigateToKCWithBreadcrumbs('KC1')
+end
+
+And(/^I go directly to KC2 page itd_10$/) do
+  @page.navigateToKCWithBreadcrumbs('KC2')
+end
+
+And(/^I go directly to KC3 page itd_13$/) do
+  @page.navigateToKCWithBreadcrumbs('KC3')
+end
+
+And(/^I go directly to Summary page$/) do
+  @page.navigateToKCWithBreadcrumbs('Summary')
+end
+
+Then(/^I get (\d+) out of (\d+)$/) do |numberOfCorrectAnswers, numberOfTotalQuestions|
   @page
       .getText(".score:nth-child(1)")
-      .checkText("3", "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
+      .checkText(numberOfCorrectAnswers, "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
       .getText(".score:nth-child(2)")
       .checkText("out of", "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
       .getText(".score:nth-child(3)")
-      .checkText("3", "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
+      .checkText(numberOfTotalQuestions, "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
 end
-
-
-
 

@@ -23,13 +23,13 @@ class ITD_1 < AbstractPage
     }
 
     @@driver.find_element(:id => "activity-objective2").click
-    sleep 2
+    sleep 4
 
-    wait = Selenium::WebDriver::Wait.new(:timeout => 15)
-    wait.until {
-      element = @@driver.find_element(:id => "back_button")
-      element if element.displayed?
-    }
+    # wait = Selenium::WebDriver::Wait.new(:timeout => 15)
+    # wait.until {
+    #   element = @@driver.find_element(:id => "back_button")
+    #   element if element.displayed?
+    # }
     @@driver.find_element(:id => "back_button").click
     sleep 4
   end
@@ -41,12 +41,6 @@ class ITD_1 < AbstractPage
   end
 
   def navigateToItd_10
-    wait = Selenium::WebDriver::Wait.new(:timeout => 10)
-    wait.until {
-      element = @@driver.find_element(:id => "back_button")
-      element if element.displayed?
-    }
-
     @@driver.find_element(:id => "activity-objective3").click
     sleep 2
 
