@@ -7,7 +7,7 @@ class HomePage < AbstractPage
     super(driver)
   end
 
-  def navigateToItd_1
+   def navigateToItd_1
     wait = Selenium::WebDriver::Wait.new(:timeout => 15)
     wait.until {
       element = @@driver.find_element(:id => "module interest_and_debt")

@@ -4,11 +4,8 @@
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterestDebt.iml" afterPath="$PROJECT_DIR$/.idea/InterestDebt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/KC.feature" afterPath="$PROJECT_DIR$/src/features/KC.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" afterPath="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/home_page.rb" afterPath="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" afterPath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" />
     </list>
     <ignored path="InterestDebt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +24,7 @@
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer (2) Coverage Results" MODIFIED="1449234498216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_second_incorrect_answer.coverage" NAME="Scenario: To navigate to KC2 and select the second incorrect answer Coverage Results" MODIFIED="1449234896689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__4_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (4) Coverage Results" MODIFIED="1449479743122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page Coverage Results" MODIFIED="1449493529426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page Coverage Results" MODIFIED="1449562406951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__3_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (3) Coverage Results" MODIFIED="1449477160537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_third_incorrect_answer.coverage" NAME="Scenario: To navigate to KC2 and select the third incorrect answer Coverage Results" MODIFIED="1449492034581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_ITD_1__InterestDebt.coverage" NAME="Testing fonts in ITD_1: InterestDebt Coverage Results" MODIFIED="1447159461507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
@@ -38,29 +35,33 @@
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_2_should_Go_to_ITD_6_and_check_Text__InterestDebt.coverage" NAME="Testing fonts in Objective 2 should Go to ITD_6 and check Text: InterestDebt Coverage Results" MODIFIED="1447941365961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer Coverage Results" MODIFIED="1449234387691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_first_incorrect_answer.coverage" NAME="Scenario: To navigate to KC2 and select the first incorrect answer Coverage Results" MODIFIED="1449234753436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page Coverage Results" MODIFIED="1449481623907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page Coverage Results" MODIFIED="1449563497417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_1__InterestDebt.coverage" NAME="Testing fonts in Objective 1: InterestDebt Coverage Results" MODIFIED="1448551252575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@KC_feature.coverage" NAME="KC.feature Coverage Results" MODIFIED="1449493604273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__2_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (2) Coverage Results" MODIFIED="1449504591246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_third_incorrect_answer__1_.coverage" NAME="Scenario: To navigate to KC3 and select the third incorrect answer (1) Coverage Results" MODIFIED="1449235412439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page__2_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (2) Coverage Results" MODIFIED="1449487767355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__3_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (3) Coverage Results" MODIFIED="1449479186310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_first_incorrect_answer__1_.coverage" NAME="Scenario: To navigate to KC2 and select the first incorrect answer (1) Coverage Results" MODIFIED="1449234861487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_third_incorrect_answer.coverage" NAME="Scenario: To navigate to KC3 and select the third incorrect answer Coverage Results" MODIFIED="1449235374495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_2_wrong_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page Coverage Results" MODIFIED="1449491112548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_2_wrong_answers_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page Coverage Results" MODIFIED="1449562525353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Summary__InterestDebt.coverage" NAME="Testing fonts in Summary: InterestDebt Coverage Results" MODIFIED="1448546512195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Objective2_text.coverage" NAME="Objective2_text Coverage Results" MODIFIED="1448546979739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer (1) Coverage Results" MODIFIED="1449234437325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_first_incorrect_answer.coverage" NAME="Scenario: To navigate to KC1 and select the first incorrect answer Coverage Results" MODIFIED="1449234206468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_3__InterestDebt.coverage" NAME="Testing fonts in Objective 3: InterestDebt Coverage Results" MODIFIED="1448554486879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (2) Coverage Results" MODIFIED="1449237486495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (1) Coverage Results" MODIFIED="1449237464492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_one_wrong_answer_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1) Coverage Results" MODIFIED="1449562895024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (1) Coverage Results" MODIFIED="1449496953818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_2__InterestDebt.coverage" NAME="Testing fonts in Objective 2: InterestDebt Coverage Results" MODIFIED="1448547168565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer Coverage Results" MODIFIED="1449237438323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449487709356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer Coverage Results" MODIFIED="1449496611623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_third_incorrect_answer__2_.coverage" NAME="Scenario: To navigate to KC3 and select the third incorrect answer (2) Coverage Results" MODIFIED="1449235453368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_third_incorrect_answer.coverage" NAME="Scenario: To navigate to KC1 and select the third incorrect answer Coverage Results" MODIFIED="1449234468114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449480930589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449495648378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_one_wrong_answer_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page Coverage Results" MODIFIED="1449562706093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answer_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page Coverage Results" MODIFIED="1449562967594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449563183223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC3 and select the correct answer Coverage Results" MODIFIED="1449232187943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC2 and select the correct answer Coverage Results" MODIFIED="1449231212558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page__3_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (3) Coverage Results" MODIFIED="1449487945553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
@@ -74,17 +75,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.36441585">
+              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
               <folding>
                 <element signature="e#187#238#0" expanded="false" />
-                <element signature="e#1849#1881#0" expanded="false" />
-                <element signature="e#1885#1961#0" expanded="false" />
-                <element signature="e#1965#2153#0" expanded="false" />
-                <element signature="e#2254#2478#0" expanded="false" />
+                <element signature="e#1118#1216#0" expanded="false" />
+                <element signature="e#1703#1972#0" expanded="false" />
+                <element signature="e#1810#1916#0" expanded="false" />
+                <element signature="e#1976#2008#0" expanded="false" />
+                <element signature="e#2012#2088#0" expanded="false" />
+                <element signature="e#2092#2280#0" expanded="false" />
+                <element signature="e#2284#2377#0" expanded="false" />
+                <element signature="e#2381#2605#0" expanded="false" />
+                <element signature="e#2609#4153#0" expanded="false" />
+                <element signature="e#2650#4146#2" expanded="false" />
+                <element signature="e#2838#2953#0" expanded="false" />
+                <element signature="e#3208#3323#0" expanded="false" />
+                <element signature="e#3575#3690#0" expanded="false" />
+                <element signature="e#3946#4061#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -104,10 +115,8 @@
         <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-              <folding>
-                <element signature="e#187#565#0" expanded="false" />
-              </folding>
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -170,10 +179,9 @@
         <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="673" column="0" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="e#294#360#0" expanded="false" />
-                <element signature="e#403#16293#0" expanded="false" />
                 <element signature="e#437#658#0" expanded="false" />
                 <element signature="e#740#3694#0" expanded="false" />
                 <element signature="e#3737#8985#0" expanded="false" />
@@ -203,14 +211,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="KC.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="162" column="55" selection-start-line="162" selection-start-column="55" selection-end-line="162" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="119" column="37" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="e#219#447#0" expanded="false" />
-                <element signature="e#455#474#0" expanded="false" />
+                <element signature="e#643#740#0" expanded="false" />
                 <element signature="e#794#1088#0" expanded="false" />
                 <element signature="e#1131#1219#0" expanded="false" />
                 <element signature="e#1267#1364#0" expanded="false" />
@@ -236,39 +254,6 @@
                 <element signature="e#6022#6071#0" expanded="false" />
                 <element signature="e#6112#6165#0" expanded="false" />
                 <element signature="e#6202#6728#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KC.feature" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7906977">
-              <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
-              <folding>
-                <element signature="e#78#272#0" expanded="false" />
-                <element signature="e#276#471#0" expanded="false" />
-                <element signature="e#475#670#0" expanded="false" />
-                <element signature="e#674#890#0" expanded="false" />
-                <element signature="e#894#1108#0" expanded="false" />
-                <element signature="e#1112#1324#0" expanded="false" />
-                <element signature="e#1328#1545#0" expanded="false" />
-                <element signature="e#1549#1764#0" expanded="false" />
-                <element signature="e#1768#1981#0" expanded="false" />
-                <element signature="e#1985#2202#0" expanded="false" />
-                <element signature="e#2206#2421#0" expanded="false" />
-                <element signature="e#2425#2638#0" expanded="false" />
-                <element signature="e#2642#3078#0" expanded="false" />
-                <element signature="e#3082#3552#0" expanded="false" />
-                <element signature="e#3556#4017#0" expanded="false" />
-                <element signature="e#4021#4479#0" expanded="false" />
-                <element signature="e#4483#4939#0" expanded="false" />
-                <element signature="e#4943#5399#0" expanded="false" />
-                <element signature="e#5403#5859#0" expanded="false" />
-                <element signature="e#5863#6308#0" expanded="false" />
-                <element signature="e#6312#6757#0" expanded="false" />
-                <element signature="e#6761#7202#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -311,10 +296,10 @@
         <option value="$PROJECT_DIR$/src/pageObjects/itd_14.rb" />
         <option value="$PROJECT_DIR$/src/test/test_spec.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/itd_1.rb" />
-        <option value="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
-        <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/src/features/KC.feature" />
+        <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
+        <option value="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
       </list>
     </option>
   </component>
@@ -354,6 +339,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -375,6 +362,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -394,10 +385,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterestDebt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterestDebt_TestAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterestDebt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterestDebt_TestAutomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -406,10 +435,10 @@
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterestDebt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Walmart" />
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)">
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page">
+    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -428,7 +457,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select 2 wrong answers and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select one wrong answer and check result on the Summary page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -441,7 +470,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="KC.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -460,7 +489,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select one wrong answer and check result on the Summary page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -473,7 +502,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: To navigate to KC2 and select the third incorrect answer" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -492,39 +521,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC2 and select the third incorrect answer$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="InterestDebt" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the correct answers and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the wrong answer and check result on the Summary page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -557,6 +554,38 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the correct answers and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="InterestDebt" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the wrong answers and check result on the Summary page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -683,19 +712,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.should Go to ITD_1 and check Text (test_spec.rb): InterestDebt" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.KC.feature" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the third incorrect answer" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.KC.feature" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the third incorrect answer" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" />
       </list>
     </recent_temporary>
   </component>
@@ -740,39 +769,45 @@
       <option name="project" value="LOCAL" />
       <updated>1449238798027</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added KC Scenarios">
+      <created>1449495739855</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1449495739855</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KC_feature - 2015.12.07 at 14h 40m 30s.xml">
-      <configuration name="KC.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_KC1_and_select_the_correct_answer_(1) - 2015.12.07 at 16h 03m 09s.xml">
+      <configuration name="Scenario: To navigate to KC1 and select the correct answer (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="KC_feature - 2015.12.07 at 15h 15m 24s.xml">
-      <configuration name="KC.feature" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__To_navigate_to_KC2_and_select_the_third_incorrect_answer - 2015.12.07 at 14h 41m 06s.xml">
-      <configuration name="Scenario: To navigate to KC2 and select the third incorrect answer" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_2_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.07 at 14h 21m 24s.xml">
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_2_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 18m 14s.xml">
       <configuration name="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_2_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.07 at 14h 24m 43s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_one_wrong_answer_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 19m 25s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_2_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.07 at 14h 28m 06s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_one_wrong_answer_and_check_result_on_the_Summary_page_(1) - 2015.12.08 at 10h 22m 35s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page - 2015.12.07 at 15h 06m 26s.xml">
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 14m 31s.xml">
       <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page_(1) - 2015.12.07 at 15h 41m 43s.xml">
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page_(1) - 2015.12.08 at 10h 27m 21s.xml">
       <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page_(2) - 2015.12.07 at 13h 31m 52s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (2)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page_(2) - 2015.12.07 at 18h 10m 53s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (2)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page_(3) - 2015.12.07 at 13h 35m 13s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (3)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answer_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 24m 44s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 14m 55s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 34m 28s.xml">
+      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -785,19 +820,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09701493" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09914712" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38854167" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -807,12 +840,40 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25252524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25252524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09701493" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -829,7 +890,8 @@
     <MESSAGE value="it &quot;should Go to ITD_3 and check Text&quot;&#10;it &quot;should Go to ITD_4 and check Text&quot;&#10;it &quot;should Go to ITD_6 and check Text&quot;" />
     <MESSAGE value="Testing fonts in Objective 2&#10;Testing fonts in Objective 3&#10;Testing fonts in Summary" />
     <MESSAGE value="Added Cucumber features and steps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Cucumber features and steps" />
+    <MESSAGE value="Added KC Scenarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added KC Scenarios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -840,7 +902,7 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="46" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -849,30 +911,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-          <folding>
-            <element signature="e#78#272#0" expanded="false" />
-            <element signature="e#276#471#0" expanded="false" />
-            <element signature="e#475#670#0" expanded="false" />
-            <element signature="e#674#890#0" expanded="false" />
-            <element signature="e#894#1108#0" expanded="false" />
-            <element signature="e#1112#1324#0" expanded="false" />
-            <element signature="e#1328#1545#0" expanded="false" />
-            <element signature="e#1549#1764#0" expanded="false" />
-            <element signature="e#1768#1981#0" expanded="false" />
-            <element signature="e#1985#2202#0" expanded="false" />
-            <element signature="e#2206#2421#0" expanded="false" />
-            <element signature="e#2425#2638#0" expanded="false" />
-            <element signature="e#2642#3078#0" expanded="false" />
-            <element signature="e#3082#3552#0" expanded="false" />
-            <element signature="e#3556#4017#0" expanded="false" />
-            <element signature="e#4021#4479#0" expanded="false" />
-            <element signature="e#4483#4939#0" expanded="false" />
-            <element signature="e#4943#5399#0" expanded="false" />
-            <element signature="e#5403#5859#0" expanded="false" />
-            <element signature="e#5863#6308#0" expanded="false" />
-            <element signature="e#6312#6757#0" expanded="false" />
-            <element signature="e#6761#7202#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +944,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#294#360#0" expanded="false" />
-            <element signature="e#403#16293#0" expanded="false" />
             <element signature="e#437#658#0" expanded="false" />
             <element signature="e#740#3694#0" expanded="false" />
             <element signature="e#3737#8985#0" expanded="false" />
@@ -940,10 +978,20 @@
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1849#1881#0" expanded="false" />
-            <element signature="e#1885#1961#0" expanded="false" />
-            <element signature="e#1965#2153#0" expanded="false" />
-            <element signature="e#2254#2478#0" expanded="false" />
+            <element signature="e#1118#1216#0" expanded="false" />
+            <element signature="e#1703#1972#0" expanded="false" />
+            <element signature="e#1810#1916#0" expanded="false" />
+            <element signature="e#1976#2008#0" expanded="false" />
+            <element signature="e#2012#2088#0" expanded="false" />
+            <element signature="e#2092#2280#0" expanded="false" />
+            <element signature="e#2284#2377#0" expanded="false" />
+            <element signature="e#2381#2605#0" expanded="false" />
+            <element signature="e#2609#4153#0" expanded="false" />
+            <element signature="e#2650#4146#2" expanded="false" />
+            <element signature="e#2838#2953#0" expanded="false" />
+            <element signature="e#3208#3323#0" expanded="false" />
+            <element signature="e#3575#3690#0" expanded="false" />
+            <element signature="e#3946#4061#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -952,9 +1000,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#187#565#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +1053,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#294#360#0" expanded="false" />
-            <element signature="e#403#16293#0" expanded="false" />
             <element signature="e#437#658#0" expanded="false" />
             <element signature="e#740#3694#0" expanded="false" />
             <element signature="e#3737#8985#0" expanded="false" />
@@ -1042,10 +1087,20 @@
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1849#1881#0" expanded="false" />
-            <element signature="e#1885#1961#0" expanded="false" />
-            <element signature="e#1965#2153#0" expanded="false" />
-            <element signature="e#2254#2478#0" expanded="false" />
+            <element signature="e#1118#1216#0" expanded="false" />
+            <element signature="e#1703#1972#0" expanded="false" />
+            <element signature="e#1810#1916#0" expanded="false" />
+            <element signature="e#1976#2008#0" expanded="false" />
+            <element signature="e#2012#2088#0" expanded="false" />
+            <element signature="e#2092#2280#0" expanded="false" />
+            <element signature="e#2284#2377#0" expanded="false" />
+            <element signature="e#2381#2605#0" expanded="false" />
+            <element signature="e#2609#4153#0" expanded="false" />
+            <element signature="e#2650#4146#2" expanded="false" />
+            <element signature="e#2838#2953#0" expanded="false" />
+            <element signature="e#3208#3323#0" expanded="false" />
+            <element signature="e#3575#3690#0" expanded="false" />
+            <element signature="e#3946#4061#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1054,9 +1109,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#187#565#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1162,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#294#360#0" expanded="false" />
-            <element signature="e#403#16293#0" expanded="false" />
             <element signature="e#437#658#0" expanded="false" />
             <element signature="e#740#3694#0" expanded="false" />
             <element signature="e#3737#8985#0" expanded="false" />
@@ -1144,10 +1196,20 @@
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1849#1881#0" expanded="false" />
-            <element signature="e#1885#1961#0" expanded="false" />
-            <element signature="e#1965#2153#0" expanded="false" />
-            <element signature="e#2254#2478#0" expanded="false" />
+            <element signature="e#1118#1216#0" expanded="false" />
+            <element signature="e#1703#1972#0" expanded="false" />
+            <element signature="e#1810#1916#0" expanded="false" />
+            <element signature="e#1976#2008#0" expanded="false" />
+            <element signature="e#2012#2088#0" expanded="false" />
+            <element signature="e#2092#2280#0" expanded="false" />
+            <element signature="e#2284#2377#0" expanded="false" />
+            <element signature="e#2381#2605#0" expanded="false" />
+            <element signature="e#2609#4153#0" expanded="false" />
+            <element signature="e#2650#4146#2" expanded="false" />
+            <element signature="e#2838#2953#0" expanded="false" />
+            <element signature="e#3208#3323#0" expanded="false" />
+            <element signature="e#3575#3690#0" expanded="false" />
+            <element signature="e#3946#4061#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1156,9 +1218,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#187#565#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1211,7 +1271,6 @@
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#294#360#0" expanded="false" />
-            <element signature="e#403#16293#0" expanded="false" />
             <element signature="e#437#658#0" expanded="false" />
             <element signature="e#740#3694#0" expanded="false" />
             <element signature="e#3737#8985#0" expanded="false" />
@@ -1372,41 +1431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="673" column="0" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#360#0" expanded="false" />
-            <element signature="e#403#16293#0" expanded="false" />
-            <element signature="e#437#658#0" expanded="false" />
-            <element signature="e#740#3694#0" expanded="false" />
-            <element signature="e#3737#8985#0" expanded="false" />
-            <element signature="e#9028#13973#0" expanded="false" />
-            <element signature="e#14016#15490#0" expanded="false" />
-            <element signature="e#15533#16282#0" expanded="false" />
-            <element signature="e#16335#44466#0" expanded="false" />
-            <element signature="e#16368#16589#0" expanded="false" />
-            <element signature="e#16671#24736#0" expanded="false" />
-            <element signature="e#24779#28938#0" expanded="false" />
-            <element signature="e#28981#38895#0" expanded="false" />
-            <element signature="e#38938#42864#0" expanded="false" />
-            <element signature="e#42908#44453#0" expanded="false" />
-            <element signature="e#44508#57951#0" expanded="false" />
-            <element signature="e#44541#44761#0" expanded="false" />
-            <element signature="e#44777#44799#0" expanded="false" />
-            <element signature="e#44843#55246#0" expanded="false" />
-            <element signature="e#55290#57170#0" expanded="false" />
-            <element signature="e#57214#57940#0" expanded="false" />
-            <element signature="e#57989#60707#0" expanded="false" />
-            <element signature="e#58022#58242#0" expanded="false" />
-            <element signature="e#58258#58280#0" expanded="false" />
-            <element signature="e#58322#58962#0" expanded="false" />
-            <element signature="e#59011#60692#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1443,23 +1467,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#294#360#0" expanded="false" />
+            <element signature="e#437#658#0" expanded="false" />
+            <element signature="e#740#3694#0" expanded="false" />
+            <element signature="e#3737#8985#0" expanded="false" />
+            <element signature="e#9028#13973#0" expanded="false" />
+            <element signature="e#14016#15490#0" expanded="false" />
+            <element signature="e#15533#16282#0" expanded="false" />
+            <element signature="e#16335#44466#0" expanded="false" />
+            <element signature="e#16368#16589#0" expanded="false" />
+            <element signature="e#16671#24736#0" expanded="false" />
+            <element signature="e#24779#28938#0" expanded="false" />
+            <element signature="e#28981#38895#0" expanded="false" />
+            <element signature="e#38938#42864#0" expanded="false" />
+            <element signature="e#42908#44453#0" expanded="false" />
+            <element signature="e#44508#57951#0" expanded="false" />
+            <element signature="e#44541#44761#0" expanded="false" />
+            <element signature="e#44777#44799#0" expanded="false" />
+            <element signature="e#44843#55246#0" expanded="false" />
+            <element signature="e#55290#57170#0" expanded="false" />
+            <element signature="e#57214#57940#0" expanded="false" />
+            <element signature="e#57989#60707#0" expanded="false" />
+            <element signature="e#58022#58242#0" expanded="false" />
+            <element signature="e#58258#58280#0" expanded="false" />
+            <element signature="e#58322#58962#0" expanded="false" />
+            <element signature="e#59011#60692#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="e#187#565#0" expanded="false" />
-          </folding>
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="162" column="55" selection-start-line="162" selection-start-column="55" selection-end-line="162" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="37" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="e#219#447#0" expanded="false" />
-            <element signature="e#455#474#0" expanded="false" />
+            <element signature="e#643#740#0" expanded="false" />
             <element signature="e#794#1088#0" expanded="false" />
             <element signature="e#1131#1219#0" expanded="false" />
             <element signature="e#1267#1364#0" expanded="false" />
@@ -1491,45 +1555,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.36441585">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
             <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1849#1881#0" expanded="false" />
-            <element signature="e#1885#1961#0" expanded="false" />
-            <element signature="e#1965#2153#0" expanded="false" />
-            <element signature="e#2254#2478#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7906977">
-          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
-          <folding>
-            <element signature="e#78#272#0" expanded="false" />
-            <element signature="e#276#471#0" expanded="false" />
-            <element signature="e#475#670#0" expanded="false" />
-            <element signature="e#674#890#0" expanded="false" />
-            <element signature="e#894#1108#0" expanded="false" />
-            <element signature="e#1112#1324#0" expanded="false" />
-            <element signature="e#1328#1545#0" expanded="false" />
-            <element signature="e#1549#1764#0" expanded="false" />
-            <element signature="e#1768#1981#0" expanded="false" />
-            <element signature="e#1985#2202#0" expanded="false" />
-            <element signature="e#2206#2421#0" expanded="false" />
-            <element signature="e#2425#2638#0" expanded="false" />
-            <element signature="e#2642#3078#0" expanded="false" />
-            <element signature="e#3082#3552#0" expanded="false" />
-            <element signature="e#3556#4017#0" expanded="false" />
-            <element signature="e#4021#4479#0" expanded="false" />
-            <element signature="e#4483#4939#0" expanded="false" />
-            <element signature="e#4943#5399#0" expanded="false" />
-            <element signature="e#5403#5859#0" expanded="false" />
-            <element signature="e#5863#6308#0" expanded="false" />
-            <element signature="e#6312#6757#0" expanded="false" />
-            <element signature="e#6761#7202#0" expanded="false" />
+            <element signature="e#1118#1216#0" expanded="false" />
+            <element signature="e#1703#1972#0" expanded="false" />
+            <element signature="e#1810#1916#0" expanded="false" />
+            <element signature="e#1976#2008#0" expanded="false" />
+            <element signature="e#2012#2088#0" expanded="false" />
+            <element signature="e#2092#2280#0" expanded="false" />
+            <element signature="e#2284#2377#0" expanded="false" />
+            <element signature="e#2381#2605#0" expanded="false" />
+            <element signature="e#2609#4153#0" expanded="false" />
+            <element signature="e#2650#4146#2" expanded="false" />
+            <element signature="e#2838#2953#0" expanded="false" />
+            <element signature="e#3208#3323#0" expanded="false" />
+            <element signature="e#3575#3690#0" expanded="false" />
+            <element signature="e#3946#4061#0" expanded="false" />
           </folding>
         </state>
       </provider>
