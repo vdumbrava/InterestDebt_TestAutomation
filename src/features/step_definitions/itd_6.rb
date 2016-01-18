@@ -1,5 +1,5 @@
-require_relative '../../src/pageObjects/abstract_page'
-require_relative '../../src/pageObjects/itd_7'
+require_relative '../../../src/features/step_definitions/abstract_page'
+require_relative '../../../src/features/step_definitions/itd_7'
 
 class ITD_6 < AbstractPage
 

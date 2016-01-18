@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/features/test.feature" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/home_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_1.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_10.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_10.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_11.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_11.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_12.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_12.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_13.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_13.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_14.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_14.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_15.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_15.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_2.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_2.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_3.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_3.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_4.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_4.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_5.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_5.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_6.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_6.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_7.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_7.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_8.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_8.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_9.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_9.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterestDebt.iml" afterPath="$PROJECT_DIR$/.idea/InterestDebt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
     </list>
@@ -17,6 +36,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_wal_1_and_select_each_category.coverage" NAME="Scenario: To navigate to wal_1 and select each category Coverage Results" MODIFIED="1453132445200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC2 and select the correct answer (1) Coverage Results" MODIFIED="1449231685438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__2_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (2) Coverage Results" MODIFIED="1449478969294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer (2) Coverage Results" MODIFIED="1449234498216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
@@ -48,12 +68,12 @@
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer (1) Coverage Results" MODIFIED="1449234437325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_first_incorrect_answer.coverage" NAME="Scenario: To navigate to KC1 and select the first incorrect answer Coverage Results" MODIFIED="1449234206468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_3__InterestDebt.coverage" NAME="Testing fonts in Objective 3: InterestDebt Coverage Results" MODIFIED="1448554486879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (2) Coverage Results" MODIFIED="1449237486495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (2) Coverage Results" MODIFIED="1453131827797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_one_wrong_answer_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1) Coverage Results" MODIFIED="1449562895024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (1) Coverage Results" MODIFIED="1449496953818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer (1) Coverage Results" MODIFIED="1453131775609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Testing_fonts_in_Objective_2__InterestDebt.coverage" NAME="Testing fonts in Objective 2: InterestDebt Coverage Results" MODIFIED="1448547168565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449487709356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer Coverage Results" MODIFIED="1449496611623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC1 and select the correct answer Coverage Results" MODIFIED="1453131657901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_third_incorrect_answer__2_.coverage" NAME="Scenario: To navigate to KC3 and select the third incorrect answer (2) Coverage Results" MODIFIED="1449235453368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_third_incorrect_answer.coverage" NAME="Scenario: To navigate to KC1 and select the third incorrect answer Coverage Results" MODIFIED="1449234468114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449480930589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
@@ -61,8 +81,8 @@
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answer_and_check_result_on_the_Summary_page.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page Coverage Results" MODIFIED="1449562967594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__1_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1) Coverage Results" MODIFIED="1449563183223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC3_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC3 and select the correct answer Coverage Results" MODIFIED="1449232187943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
-    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC2 and select the correct answer Coverage Results" MODIFIED="1449231212558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knowledge_Checks__select_the_wrong_answers_and_check_result_on_the_Summary_page__3_.coverage" NAME="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page (3) Coverage Results" MODIFIED="1449487945553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_correct_answer.coverage" NAME="Scenario: To navigate to KC2 and select the correct answer Coverage Results" MODIFIED="1453132088146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -73,137 +93,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
+      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.7743363">
+              <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
               <folding>
-                <element signature="e#187#238#0" expanded="false" />
-                <element signature="e#1118#1216#0" expanded="false" />
-                <element signature="e#1703#1972#0" expanded="false" />
-                <element signature="e#1810#1916#0" expanded="false" />
-                <element signature="e#1976#2008#0" expanded="false" />
-                <element signature="e#2012#2088#0" expanded="false" />
-                <element signature="e#2092#2280#0" expanded="false" />
-                <element signature="e#2284#2377#0" expanded="false" />
-                <element signature="e#2381#2605#0" expanded="false" />
-                <element signature="e#2609#4153#0" expanded="false" />
-                <element signature="e#2650#4146#2" expanded="false" />
-                <element signature="e#2838#2953#0" expanded="false" />
-                <element signature="e#3208#3323#0" expanded="false" />
-                <element signature="e#3575#3690#0" expanded="false" />
-                <element signature="e#3946#4061#0" expanded="false" />
+                <element signature="e#2599#4095#2" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="itd_4.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_15.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_15.rb">
+      <file leaf-file-name="itd_14.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_14.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="home_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itd_1.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
+      <file leaf-file-name="itd_12.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_12.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="50" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="50" />
-              <folding>
-                <element signature="e#167#214#0" expanded="false" />
-                <element signature="e#218#348#0" expanded="false" />
-                <element signature="e#352#881#0" expanded="false" />
-                <element signature="e#444#547#0" expanded="false" />
-                <element signature="e#376#875#1" expanded="false" />
-                <element signature="e#885#1015#0" expanded="false" />
-                <element signature="e#1019#1362#0" expanded="false" />
-                <element signature="e#1366#1498#0" expanded="false" />
-                <element signature="e#1595#1698#0" expanded="false" />
-                <element signature="e#1844#1947#0" expanded="false" />
-                <element signature="e#2116#2224#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="itd_5.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_5.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#167#214#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="itd_14.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_14.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="41" />
+              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/test_spec.rb">
+      <file leaf-file-name="itd_13.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_13.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="e#294#360#0" expanded="false" />
-                <element signature="e#437#658#0" expanded="false" />
-                <element signature="e#740#3694#0" expanded="false" />
-                <element signature="e#3737#8985#0" expanded="false" />
-                <element signature="e#9028#13973#0" expanded="false" />
-                <element signature="e#15533#16282#0" expanded="false" />
-                <element signature="e#16335#44466#0" expanded="false" />
-                <element signature="e#16368#16589#0" expanded="false" />
-                <element signature="e#16671#24736#0" expanded="false" />
-                <element signature="e#24779#28938#0" expanded="false" />
-                <element signature="e#28981#38895#0" expanded="false" />
-                <element signature="e#38938#42864#0" expanded="false" />
-                <element signature="e#42908#44453#0" expanded="false" />
-                <element signature="e#44508#57951#0" expanded="false" />
-                <element signature="e#44541#44761#0" expanded="false" />
-                <element signature="e#44777#44799#0" expanded="false" />
-                <element signature="e#44843#55246#0" expanded="false" />
-                <element signature="e#55290#57170#0" expanded="false" />
-                <element signature="e#57214#57940#0" expanded="false" />
-                <element signature="e#57989#60707#0" expanded="false" />
-                <element signature="e#58022#58242#0" expanded="false" />
-                <element signature="e#58258#58280#0" expanded="false" />
-                <element signature="e#58322#58962#0" expanded="false" />
-                <element signature="e#59011#60692#0" expanded="false" />
-              </folding>
+              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -212,45 +159,28 @@
         <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16575791">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding>
-                <element signature="e#644#741#0" expanded="false" />
-                <element signature="e#795#1089#0" expanded="false" />
-                <element signature="e#1132#1220#0" expanded="false" />
-                <element signature="e#1268#1365#0" expanded="false" />
-                <element signature="e#1419#1885#0" expanded="false" />
-                <element signature="e#1928#2016#0" expanded="false" />
-                <element signature="e#2064#2161#0" expanded="false" />
-                <element signature="e#2215#2674#0" expanded="false" />
-                <element signature="e#2734#2831#0" expanded="false" />
-                <element signature="e#2888#2985#0" expanded="false" />
-                <element signature="e#3041#3138#0" expanded="false" />
-                <element signature="e#3194#3654#0" expanded="false" />
-                <element signature="e#3714#3811#0" expanded="false" />
-                <element signature="e#3868#3965#0" expanded="false" />
-                <element signature="e#4021#4118#0" expanded="false" />
-                <element signature="e#4174#4624#0" expanded="false" />
-                <element signature="e#4684#4781#0" expanded="false" />
-                <element signature="e#4838#4935#0" expanded="false" />
-                <element signature="e#4991#5088#0" expanded="false" />
-                <element signature="e#5144#5642#0" expanded="false" />
-                <element signature="e#5682#5794#0" expanded="false" />
-                <element signature="e#5837#5886#0" expanded="false" />
-                <element signature="e#5930#5979#0" expanded="false" />
-                <element signature="e#6023#6072#0" expanded="false" />
-                <element signature="e#6113#6166#0" expanded="false" />
-                <element signature="e#6203#6729#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="195" column="14" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features/test.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -295,7 +225,25 @@
         <option value="$PROJECT_DIR$/src/features/KC.feature" />
         <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_15.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_1.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_4.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_2.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_5.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_6.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_7.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_8.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_9.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_10.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_3.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_11.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_12.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_13.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/itd_14.rb" />
+        <option value="$PROJECT_DIR$/src/features/test.feature" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
       </list>
     </option>
   </component>
@@ -356,10 +304,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -375,25 +319,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pageObjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterestDebt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InterestDebt_TestAutomation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
+              <option name="myItemId" value="screenshots" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,8 +335,13 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Walmart" />
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page">
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vasilica.dumbrava\RubymineProjects\InterestDebt_TestAutomation\src\features\step_definitions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber.Scenario: To navigate to wal_1 and select each category">
+    <configuration default="false" name="Scenario: To navigate to KC1 and select the correct answer" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -429,7 +360,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select one wrong answer and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC1 and select the correct answer$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -442,7 +373,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate to KC1 and select the correct answer (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -461,7 +392,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select one wrong answer and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC1 and select the correct answer$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -474,7 +405,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate to KC1 and select the correct answer (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -493,7 +424,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the wrong answer and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC1 and select the correct answer$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -506,7 +437,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate to KC2 and select the correct answer" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -525,7 +456,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the correct answers and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC2 and select the correct answer$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -538,7 +469,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Scenario: To navigate to wal_1 and select each category" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -555,9 +486,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/test.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate trough all the Knowledge Checks\, select the wrong answers and check result on the Summary page$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to wal_1 and select each category$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -684,19 +615,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.should Go to ITD_1 and check Text (test_spec.rb): InterestDebt" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer" />
       </list>
     </recent_temporary>
   </component>
@@ -753,33 +684,39 @@
       <option name="project" value="LOCAL" />
       <updated>1450432419225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;&quot;">
+      <created>1453129564560</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1453129564560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__To_navigate_to_KC1_and_select_the_correct_answer_(1) - 2015.12.07 at 16h 03m 09s.xml">
+    <history-entry file="Scenario__To_navigate_to_KC1_and_select_the_correct_answer - 2016.01.18 at 17h 41m 01s.xml">
+      <configuration name="Scenario: To navigate to KC1 and select the correct answer" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__To_navigate_to_KC1_and_select_the_correct_answer_(1) - 2016.01.18 at 17h 42m 56s.xml">
       <configuration name="Scenario: To navigate to KC1 and select the correct answer (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_2_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 18m 14s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select 2 wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_KC1_and_select_the_correct_answer_(2) - 2016.01.18 at 17h 43m 54s.xml">
+      <configuration name="Scenario: To navigate to KC1 and select the correct answer (2)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_one_wrong_answer_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 19m 25s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_KC2_and_select_the_correct_answer - 2016.01.18 at 17h 46m 46s.xml">
+      <configuration name="Scenario: To navigate to KC2 and select the correct answer" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_one_wrong_answer_and_check_result_on_the_Summary_page_(1) - 2015.12.08 at 10h 22m 35s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select one wrong answer and check result on the Summary page (1)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_KC2_and_select_the_correct_answer - 2016.01.18 at 17h 47m 17s.xml">
+      <configuration name="Scenario: To navigate to KC2 and select the correct answer" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 14m 31s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_KC2_and_select_the_correct_answer - 2016.01.18 at 17h 48m 39s.xml">
+      <configuration name="Scenario: To navigate to KC2 and select the correct answer" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page_(1) - 2015.12.08 at 10h 27m 21s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (1)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_wal_1_and_select_each_category - 2016.01.18 at 17h 53m 18s.xml">
+      <configuration name="Scenario: To navigate to wal_1 and select each category" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_correct_answers_and_check_result_on_the_Summary_page_(2) - 2015.12.07 at 18h 10m 53s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the correct answers and check result on the Summary page (2)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answer_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 24m 44s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answer and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__To_navigate_to_wal_1_and_select_each_category - 2016.01.18 at 17h 54m 29s.xml">
+      <configuration name="Scenario: To navigate to wal_1 and select each category" configurationId="CucumberRunConfigurationType" />
     </history-entry>
     <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 14m 55s.xml">
       <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
@@ -801,29 +738,29 @@
     <frame x="0" y="0" width="1920" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10215054" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10215054" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25211865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25252524" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -876,7 +813,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/src/pageObjects/itd_5.rb</url>
+          <url>file://$PROJECT_DIR$/src/features/step_definitions/itd_5.rb</url>
           <line>11</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -891,22 +828,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
@@ -914,7 +836,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="32" />
@@ -955,31 +877,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1118#1216#0" expanded="false" />
-            <element signature="e#1703#1972#0" expanded="false" />
-            <element signature="e#1810#1916#0" expanded="false" />
-            <element signature="e#1976#2008#0" expanded="false" />
-            <element signature="e#2012#2088#0" expanded="false" />
-            <element signature="e#2092#2280#0" expanded="false" />
-            <element signature="e#2284#2377#0" expanded="false" />
-            <element signature="e#2381#2605#0" expanded="false" />
-            <element signature="e#2609#4153#0" expanded="false" />
-            <element signature="e#2650#4146#2" expanded="false" />
-            <element signature="e#2838#2953#0" expanded="false" />
-            <element signature="e#3208#3323#0" expanded="false" />
-            <element signature="e#3575#3690#0" expanded="false" />
-            <element signature="e#3946#4061#0" expanded="false" />
+            <element signature="e#2599#4095#2" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -987,34 +895,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="132" column="3" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
           <folding>
-            <element signature="e#167#214#0" expanded="false" />
-            <element signature="e#218#348#0" expanded="false" />
-            <element signature="e#352#881#0" expanded="false" />
-            <element signature="e#444#547#0" expanded="false" />
-            <element signature="e#376#875#1" expanded="false" />
-            <element signature="e#885#1015#0" expanded="false" />
-            <element signature="e#1019#1362#0" expanded="false" />
-            <element signature="e#1366#1498#0" expanded="false" />
-            <element signature="e#1595#1698#0" expanded="false" />
-            <element signature="e#1844#1947#0" expanded="false" />
-            <element signature="e#2116#2224#0" expanded="false" />
+            <element signature="e#201#248#0" expanded="false" />
+            <element signature="e#252#382#0" expanded="false" />
+            <element signature="e#386#915#0" expanded="false" />
+            <element signature="e#478#581#0" expanded="false" />
+            <element signature="e#410#909#1" expanded="false" />
+            <element signature="e#919#1049#0" expanded="false" />
+            <element signature="e#1053#1396#0" expanded="false" />
+            <element signature="e#1400#1532#0" expanded="false" />
+            <element signature="e#1629#1732#0" expanded="false" />
+            <element signature="e#1878#1981#0" expanded="false" />
+            <element signature="e#2150#2258#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
@@ -1022,7 +930,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="32" />
@@ -1063,31 +971,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1118#1216#0" expanded="false" />
-            <element signature="e#1703#1972#0" expanded="false" />
-            <element signature="e#1810#1916#0" expanded="false" />
-            <element signature="e#1976#2008#0" expanded="false" />
-            <element signature="e#2012#2088#0" expanded="false" />
-            <element signature="e#2092#2280#0" expanded="false" />
-            <element signature="e#2284#2377#0" expanded="false" />
-            <element signature="e#2381#2605#0" expanded="false" />
-            <element signature="e#2609#4153#0" expanded="false" />
-            <element signature="e#2650#4146#2" expanded="false" />
-            <element signature="e#2838#2953#0" expanded="false" />
-            <element signature="e#3208#3323#0" expanded="false" />
-            <element signature="e#3575#3690#0" expanded="false" />
-            <element signature="e#3946#4061#0" expanded="false" />
+            <element signature="e#2599#4095#2" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1095,34 +989,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="132" column="3" selection-start-line="132" selection-start-column="3" selection-end-line="132" selection-end-column="3" />
           <folding>
-            <element signature="e#167#214#0" expanded="false" />
-            <element signature="e#218#348#0" expanded="false" />
-            <element signature="e#352#881#0" expanded="false" />
-            <element signature="e#444#547#0" expanded="false" />
-            <element signature="e#376#875#1" expanded="false" />
-            <element signature="e#885#1015#0" expanded="false" />
-            <element signature="e#1019#1362#0" expanded="false" />
-            <element signature="e#1366#1498#0" expanded="false" />
-            <element signature="e#1595#1698#0" expanded="false" />
-            <element signature="e#1844#1947#0" expanded="false" />
-            <element signature="e#2116#2224#0" expanded="false" />
+            <element signature="e#201#248#0" expanded="false" />
+            <element signature="e#252#382#0" expanded="false" />
+            <element signature="e#386#915#0" expanded="false" />
+            <element signature="e#478#581#0" expanded="false" />
+            <element signature="e#410#909#1" expanded="false" />
+            <element signature="e#919#1049#0" expanded="false" />
+            <element signature="e#1053#1396#0" expanded="false" />
+            <element signature="e#1400#1532#0" expanded="false" />
+            <element signature="e#1629#1732#0" expanded="false" />
+            <element signature="e#1878#1981#0" expanded="false" />
+            <element signature="e#2150#2258#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
@@ -1130,7 +1024,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="32" />
@@ -1171,31 +1065,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1118#1216#0" expanded="false" />
-            <element signature="e#1703#1972#0" expanded="false" />
-            <element signature="e#1810#1916#0" expanded="false" />
-            <element signature="e#1976#2008#0" expanded="false" />
-            <element signature="e#2012#2088#0" expanded="false" />
-            <element signature="e#2092#2280#0" expanded="false" />
-            <element signature="e#2284#2377#0" expanded="false" />
-            <element signature="e#2381#2605#0" expanded="false" />
-            <element signature="e#2609#4153#0" expanded="false" />
-            <element signature="e#2650#4146#2" expanded="false" />
-            <element signature="e#2838#2953#0" expanded="false" />
-            <element signature="e#3208#3323#0" expanded="false" />
-            <element signature="e#3575#3690#0" expanded="false" />
-            <element signature="e#3946#4061#0" expanded="false" />
+            <element signature="e#2599#4095#2" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1203,34 +1083,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#167#214#0" expanded="false" />
-            <element signature="e#218#348#0" expanded="false" />
-            <element signature="e#352#881#0" expanded="false" />
-            <element signature="e#444#547#0" expanded="false" />
-            <element signature="e#376#875#1" expanded="false" />
-            <element signature="e#885#1015#0" expanded="false" />
-            <element signature="e#1019#1362#0" expanded="false" />
-            <element signature="e#1366#1498#0" expanded="false" />
-            <element signature="e#1595#1698#0" expanded="false" />
-            <element signature="e#1844#1947#0" expanded="false" />
-            <element signature="e#2116#2224#0" expanded="false" />
+            <element signature="e#201#248#0" expanded="false" />
+            <element signature="e#252#382#0" expanded="false" />
+            <element signature="e#386#915#0" expanded="false" />
+            <element signature="e#478#581#0" expanded="false" />
+            <element signature="e#410#909#1" expanded="false" />
+            <element signature="e#919#1049#0" expanded="false" />
+            <element signature="e#1053#1396#0" expanded="false" />
+            <element signature="e#1400#1532#0" expanded="false" />
+            <element signature="e#1629#1732#0" expanded="false" />
+            <element signature="e#1878#1981#0" expanded="false" />
+            <element signature="e#2150#2258#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_3.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="47" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="47" />
@@ -1238,7 +1118,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="32" />
@@ -1293,20 +1173,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_12.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_10.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby22-x64/bin/rspec">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60225445">
@@ -1318,156 +1184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="1326" column="0" selection-start-line="1326" selection-start-column="0" selection-end-line="1326" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_6.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_9.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_8.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_11.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_13.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_5.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#167#214#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby22-x64/bin/cucumber">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="50" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="50" />
-          <folding>
-            <element signature="e#167#214#0" expanded="false" />
-            <element signature="e#218#348#0" expanded="false" />
-            <element signature="e#352#881#0" expanded="false" />
-            <element signature="e#444#547#0" expanded="false" />
-            <element signature="e#376#875#1" expanded="false" />
-            <element signature="e#885#1015#0" expanded="false" />
-            <element signature="e#1019#1362#0" expanded="false" />
-            <element signature="e#1366#1498#0" expanded="false" />
-            <element signature="e#1595#1698#0" expanded="false" />
-            <element signature="e#1844#1947#0" expanded="false" />
-            <element signature="e#2116#2224#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_14.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_15.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/abstract_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="29" />
-          <folding>
-            <element signature="e#187#238#0" expanded="false" />
-            <element signature="e#1118#1216#0" expanded="false" />
-            <element signature="e#1703#1972#0" expanded="false" />
-            <element signature="e#1810#1916#0" expanded="false" />
-            <element signature="e#1976#2008#0" expanded="false" />
-            <element signature="e#2012#2088#0" expanded="false" />
-            <element signature="e#2092#2280#0" expanded="false" />
-            <element signature="e#2284#2377#0" expanded="false" />
-            <element signature="e#2381#2605#0" expanded="false" />
-            <element signature="e#2609#4153#0" expanded="false" />
-            <element signature="e#2650#4146#2" expanded="false" />
-            <element signature="e#2838#2953#0" expanded="false" />
-            <element signature="e#3208#3323#0" expanded="false" />
-            <element signature="e#3575#3690#0" expanded="false" />
-            <element signature="e#3946#4061#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pageObjects/itd_4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1504,45 +1220,191 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037117902">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#201#248#0" expanded="false" />
+            <element signature="e#252#382#0" expanded="false" />
+            <element signature="e#386#915#0" expanded="false" />
+            <element signature="e#478#581#0" expanded="false" />
+            <element signature="e#410#909#1" expanded="false" />
+            <element signature="e#919#1049#0" expanded="false" />
+            <element signature="e#1053#1396#0" expanded="false" />
+            <element signature="e#1400#1532#0" expanded="false" />
+            <element signature="e#1629#1732#0" expanded="false" />
+            <element signature="e#1878#1981#0" expanded="false" />
+            <element signature="e#2150#2258#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018558951">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_5.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.074235804">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#201#248#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_6.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.055676855">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_7.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018558951">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_8.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018558951">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_9.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018558951">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_15.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.055676855">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.055676855">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_10.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_11.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_12.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_13.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_14.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby22-x64/bin/cucumber">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5516224">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/itd_4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/test.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16575791">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="14" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screenshots/tst.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7743363">
+          <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
           <folding>
-            <element signature="e#644#741#0" expanded="false" />
-            <element signature="e#795#1089#0" expanded="false" />
-            <element signature="e#1132#1220#0" expanded="false" />
-            <element signature="e#1268#1365#0" expanded="false" />
-            <element signature="e#1419#1885#0" expanded="false" />
-            <element signature="e#1928#2016#0" expanded="false" />
-            <element signature="e#2064#2161#0" expanded="false" />
-            <element signature="e#2215#2674#0" expanded="false" />
-            <element signature="e#2734#2831#0" expanded="false" />
-            <element signature="e#2888#2985#0" expanded="false" />
-            <element signature="e#3041#3138#0" expanded="false" />
-            <element signature="e#3194#3654#0" expanded="false" />
-            <element signature="e#3714#3811#0" expanded="false" />
-            <element signature="e#3868#3965#0" expanded="false" />
-            <element signature="e#4021#4118#0" expanded="false" />
-            <element signature="e#4174#4624#0" expanded="false" />
-            <element signature="e#4684#4781#0" expanded="false" />
-            <element signature="e#4838#4935#0" expanded="false" />
-            <element signature="e#4991#5088#0" expanded="false" />
-            <element signature="e#5144#5642#0" expanded="false" />
-            <element signature="e#5682#5794#0" expanded="false" />
-            <element signature="e#5837#5886#0" expanded="false" />
-            <element signature="e#5930#5979#0" expanded="false" />
-            <element signature="e#6023#6072#0" expanded="false" />
-            <element signature="e#6113#6166#0" expanded="false" />
-            <element signature="e#6203#6729#0" expanded="false" />
+            <element signature="e#2599#4095#2" expanded="false" />
           </folding>
         </state>
       </provider>

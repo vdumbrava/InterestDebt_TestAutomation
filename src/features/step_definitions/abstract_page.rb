@@ -1,6 +1,6 @@
 require 'selenium-webdriver'
 require 'rubygems'
-require 'rspec'
+require 'rubygems'
 require 'rspec/core/test_unit_assertions_adapter'
 
 class AbstractPage
@@ -18,10 +18,9 @@ class AbstractPage
 
 
     @@driver.navigate.to("http://atwork.deverfi.net/newthadiusatwork/login")
-    @@driver.find_element(:id => "email").send_keys "simona.bitu@3pillarglobal.com"
-    #@@driver.find_element(:id => "email").send_keys "vasilica.dumbrava@3pillarglobal.com"
-    @@driver.find_element(:id => "password").send_keys " "
-    #@@driver.find_element(:id => "password").send_keys " "
+    #@@driver.find_element(:id => "email").send_keys "simona.bitu@3pillarglobal.com"
+    @@driver.find_element(:id => "email").send_keys "vasilica.dumbrava@3pillarglobal.com"
+    @@driver.find_element(:id => "password").send_keys "navient"
     @@driver.find_element(:name => "commit").click
 
     # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
@@ -131,5 +130,11 @@ class AbstractPage
     end
 
   end
+
+  def screenShot(screenShotName)
+      @@driver.save_screenshot("/var/lib/jenkins/jobs/InterestDebt_TestAutomation/workspace/src/screenshots/"+screenShotName)
+      #@@driver.save_screenshot("./screenshots/"+screenShotName)
+  end
+
 
 end

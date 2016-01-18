@@ -1,4 +1,4 @@
-require_relative '../../src/pageObjects/abstract_page'
+require_relative '../../../src/features/step_definitions/abstract_page'
 
 class ITD_15 < AbstractPage
 

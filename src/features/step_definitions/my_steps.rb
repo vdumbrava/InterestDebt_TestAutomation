@@ -1,13 +1,13 @@
 require 'selenium-webdriver'
 require 'rubygems'
-require_relative '../../../src/pageObjects/abstract_page'
-require_relative '../../../src/pageObjects/home_page'
-require_relative '../../../src/pageObjects/itd_5'
+require_relative '../../../src/features/step_definitions/abstract_page'
+require_relative '../../../src/features/step_definitions/home_page'
+require_relative '../../../src/features/step_definitions/itd_5'
 
 Before  do
   @page = nil
 
-  page = AbstractPage.new(Selenium::WebDriver.for :firefox)
+  @page = AbstractPage.new(Selenium::WebDriver.for :firefox)
   #Selenium::WebDriver::Chrome.driver_path = "e:/Training Automation/chromedriver.exe"
   #@page = AbstractPage.new(Selenium::WebDriver.for :chrome)
 end
@@ -185,3 +185,13 @@ Then(/^I get (\d+) out of (\d+)$/) do |numberOfCorrectAnswers, numberOfTotalQues
       .checkText(numberOfTotalQuestions, "14px", "'Helvetica Neue', Helvetica, Arial, sans-serif","rgba(51, 51, 51, 1)")
 end
 
+
+Given(/^I navigate to KC1 page itd_1$/) do
+  @page.navigateToModuleMatrixPage
+      .navigateToItd_1
+end
+
+Then(/^I make a print screen$/) do
+  sleep 2
+  @page.screenShot('tst.png')
+end
