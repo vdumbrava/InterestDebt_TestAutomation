@@ -7,9 +7,9 @@ require_relative '../../../src/pageObjects/itd_5'
 Before  do
   @page = nil
 
-  #page = AbstractPage.new(Selenium::WebDriver.for :firefox)
-  Selenium::WebDriver::Chrome.driver_path = "e:/Training Automation/chromedriver.exe"
-  @page = AbstractPage.new(Selenium::WebDriver.for :chrome)
+  page = AbstractPage.new(Selenium::WebDriver.for :firefox)
+  #Selenium::WebDriver::Chrome.driver_path = "e:/Training Automation/chromedriver.exe"
+  #@page = AbstractPage.new(Selenium::WebDriver.for :chrome)
 end
 
 After do
