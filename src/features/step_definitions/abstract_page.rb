@@ -15,8 +15,7 @@ class AbstractPage
   def navigateToModuleMatrixPage
     @@driver.manage.window.maximize
     #@@driver.navigate.to("http://tim-vm-020:3000")
-    sleep 3
-    @@driver.save_screenshot("/var/lib/jenkins/jobs/InterestDebt_TestAutomation/workspace/src/screenshots/testModuleMatrix.png")
+
 
     @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
     #@@driver.navigate.to("http://atwork.deverfi.net/newthadiusatwork/login")
@@ -27,6 +26,11 @@ class AbstractPage
 
     # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
     # @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html#interest-and-debt/intro")
+
+    sleep 3
+    @@driver.save_screenshot("/var/lib/jenkins/jobs/InterestDebt_TestAutomation/workspace/src/screenshots/testModuleMatrix.png")
+
+
     return HomePage.new(@@driver)
   end
 

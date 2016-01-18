@@ -78,10 +78,10 @@
       <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45132744">
-              <caret line="18" column="127" selection-start-line="18" selection-start-column="127" selection-end-line="18" selection-end-column="127" />
+            <state vertical-scroll-proportion="0.7522124">
+              <caret line="30" column="128" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
               <folding>
-                <element signature="e#2827#4323#2" expanded="false" />
+                <element signature="e#2831#4327#2" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -708,7 +708,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453133554096</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test CI">
+      <created>1453133688454</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1453133688454</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -901,7 +907,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2827#4323#2" expanded="false" />
+            <element signature="e#2831#4327#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -995,7 +1001,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2827#4323#2" expanded="false" />
+            <element signature="e#2831#4327#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1089,7 +1095,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2827#4323#2" expanded="false" />
+            <element signature="e#2831#4327#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1420,10 +1426,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45132744">
-          <caret line="18" column="127" selection-start-line="18" selection-start-column="127" selection-end-line="18" selection-end-column="127" />
+        <state vertical-scroll-proportion="0.7522124">
+          <caret line="30" column="128" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
           <folding>
-            <element signature="e#2827#4323#2" expanded="false" />
+            <element signature="e#2831#4327#2" expanded="false" />
           </folding>
         </state>
       </provider>
