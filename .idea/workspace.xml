@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterestDebt.iml" afterPath="$PROJECT_DIR$/.idea/InterestDebt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
     </list>
     <ignored path="InterestDebt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,13 +76,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.47640118">
+              <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
               <folding>
-                <element signature="e#2599#4095#2" expanded="false" />
+                <element signature="e#2684#4180#2" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -112,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -148,10 +148,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69911504">
+            <state vertical-scroll-proportion="0.0">
               <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
               <folding />
             </state>
@@ -208,7 +208,6 @@
         <option value="$PROJECT_DIR$/src/features/KC.feature" />
         <option value="$PROJECT_DIR$/src/pageObjects/home_page.rb" />
         <option value="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" />
-        <option value="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_15.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_1.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_4.rb" />
@@ -225,8 +224,9 @@
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_13.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_14.rb" />
         <option value="$PROJECT_DIR$/src/features/test.feature" />
-        <option value="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
       </list>
     </option>
   </component>
@@ -679,7 +679,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453132645705</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test CI">
+      <created>1453132952161</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1453132952161</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -796,7 +802,8 @@
     <MESSAGE value="Added Cucumber features and steps" />
     <MESSAGE value="Added KC Scenarios" />
     <MESSAGE value="&quot;&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;&quot;" />
+    <MESSAGE value="test CI" />
+    <option name="LAST_COMMIT_MESSAGE" value="test CI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -871,7 +878,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2599#4095#2" expanded="false" />
+            <element signature="e#2684#4180#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -965,7 +972,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2599#4095#2" expanded="false" />
+            <element signature="e#2684#4180#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1059,7 +1066,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#2599#4095#2" expanded="false" />
+            <element signature="e#2684#4180#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1351,27 +1358,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/screenshots/tst.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
-          <folding>
-            <element signature="e#2599#4095#2" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
@@ -1392,9 +1381,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69911504">
+        <state vertical-scroll-proportion="0.0">
           <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47640118">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+          <folding>
+            <element signature="e#2684#4180#2" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

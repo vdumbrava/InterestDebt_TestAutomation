@@ -17,7 +17,8 @@ class AbstractPage
     #@@driver.navigate.to("http://tim-vm-020:3000")
 
 
-    @@driver.navigate.to("http://atwork.deverfi.net/newthadiusatwork/login")
+    @@driver.navigate.to("http://tim-vm-021.3pillar.corp/AtWork/public/index.html")
+    #@@driver.navigate.to("http://atwork.deverfi.net/newthadiusatwork/login")
     #@@driver.find_element(:id => "email").send_keys "simona.bitu@3pillarglobal.com"
     @@driver.find_element(:id => "email").send_keys "vasilica.dumbrava@3pillarglobal.com"
     @@driver.find_element(:id => "password").send_keys "navient"

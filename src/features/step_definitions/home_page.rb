@@ -10,7 +10,8 @@ class HomePage < AbstractPage
    def navigateToItd_1
     wait = Selenium::WebDriver::Wait.new(:timeout => 15)
     wait.until {
-      element = @@driver.find_element(:id => "module interest_and_debt")
+      element = @@driver.find_element(:id => "module retirement")
+      #element = @@driver.find_element(:id => "module interest_and_debt")
       element if element.displayed?
     }
     @@driver.find_element(:id => "module interest_and_debt").click
