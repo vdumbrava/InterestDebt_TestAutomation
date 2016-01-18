@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/features/test.feature" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/abstract_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/home_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_1.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_1.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_10.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_10.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_11.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_11.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_12.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_12.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_13.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_13.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_14.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_14.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_15.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_15.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_2.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_2.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_3.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_3.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_4.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_4.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_5.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_5.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_6.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_6.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_7.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_7.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_8.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_8.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pageObjects/itd_9.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/itd_9.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/InterestDebt.iml" afterPath="$PROJECT_DIR$/.idea/InterestDebt.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
@@ -37,6 +19,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_wal_1_and_select_each_category.coverage" NAME="Scenario: To navigate to wal_1 and select each category Coverage Results" MODIFIED="1453132445200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
+    <SUITE FILE_PATH="coverage/InterestDebt@test_feature.coverage" NAME="test.feature Coverage Results" MODIFIED="1453132815748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC2_and_select_the_correct_answer__1_.coverage" NAME="Scenario: To navigate to KC2 and select the correct answer (1) Coverage Results" MODIFIED="1449231685438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_trough_all_the_Knoledge_Checks__select_the_correct_answers_and_check_result_on_the_Summary_page__2_.coverage" NAME="Scenario: To navigate trough all the Knoledge Checks, select the correct answers and check result on the Summary page (2) Coverage Results" MODIFIED="1449478969294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
     <SUITE FILE_PATH="coverage/InterestDebt@Scenario__To_navigate_to_KC1_and_select_the_second_incorrect_answer__2_.coverage" NAME="Scenario: To navigate to KC1 and select the second incorrect answer (2) Coverage Results" MODIFIED="1449234498216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="InterestDebt" />
@@ -93,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="abstract_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7743363">
+            <state vertical-scroll-proportion="0.0">
               <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
               <folding>
                 <element signature="e#2599#4095#2" expanded="false" />
@@ -165,11 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="195" column="14" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.69911504">
+              <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -179,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/src/features/test.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -242,8 +225,8 @@
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_13.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/itd_14.rb" />
         <option value="$PROJECT_DIR$/src/features/test.feature" />
-        <option value="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
+        <option value="$PROJECT_DIR$/src/features/step_definitions/my_steps.rb" />
       </list>
     </option>
   </component>
@@ -340,39 +323,7 @@
       <recent name="C:\Users\vasilica.dumbrava\RubymineProjects\InterestDebt_TestAutomation\src\features\step_definitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: To navigate to wal_1 and select each category">
-    <configuration default="false" name="Scenario: To navigate to KC1 and select the correct answer" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="InterestDebt" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/KC.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^To navigate to KC1 and select the correct answer$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Cucumber.test.feature">
     <configuration default="false" name="Scenario: To navigate to KC1 and select the correct answer (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="InterestDebt" />
@@ -501,6 +452,38 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
+    <configuration default="false" name="test.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="InterestDebt" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/src" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/src/features/test.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -615,19 +598,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.should Go to ITD_1 and check Text (test_spec.rb): InterestDebt" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.test.feature" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.test.feature" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to wal_1 and select each category" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC2 and select the correct answer" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: To navigate to KC1 and select the correct answer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +673,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453129564560</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;&quot;">
+      <created>1453132645705</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1453132645705</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -718,11 +707,11 @@
     <history-entry file="Scenario__To_navigate_to_wal_1_and_select_each_category - 2016.01.18 at 17h 54m 29s.xml">
       <configuration name="Scenario: To navigate to wal_1 and select each category" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 14m 55s.xml">
-      <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__To_navigate_trough_all_the_Knowledge_Checks,_select_the_wrong_answers_and_check_result_on_the_Summary_page - 2015.12.08 at 10h 34m 28s.xml">
       <configuration name="Scenario: To navigate trough all the Knowledge Checks, select the wrong answers and check result on the Summary page" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_feature - 2016.01.18 at 18h 00m 40s.xml">
+      <configuration name="test.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -1370,6 +1359,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/screenshots/tst.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
+          <folding>
+            <element signature="e#2599#4095#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/features/KC.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1381,31 +1385,16 @@
     <entry file="file://$PROJECT_DIR$/src/features/test.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/my_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="195" column="14" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.69911504">
+          <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/screenshots/tst.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7743363">
-          <caret line="135" column="35" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
-          <folding>
-            <element signature="e#2599#4095#2" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

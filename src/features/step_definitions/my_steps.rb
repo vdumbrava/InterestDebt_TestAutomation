@@ -188,7 +188,7 @@ end
 
 Given(/^I navigate to KC1 page itd_1$/) do
   @page.navigateToModuleMatrixPage
-      .navigateToItd_1
+      #.navigateToItd_1
 end
 
 Then(/^I make a print screen$/) do
