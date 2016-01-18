@@ -8,6 +8,7 @@ class HomePage < AbstractPage
   end
 
    def navigateToItd_1
+     sleep 3
     wait = Selenium::WebDriver::Wait.new(:timeout => 15)
     wait.until {
       element = @@driver.find_element(:id => "module retirement")
