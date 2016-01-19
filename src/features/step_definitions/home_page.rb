@@ -17,7 +17,7 @@ class HomePage < AbstractPage
     }
     #@@driver.find_element(:id => "module interest_and_debt").click
     sleep 4
-    @@driver.find_element(:id => "mute_button").click
+    #@@driver.find_element(:id => "mute_button").click
     return ITD_1.new(@@driver)
   end
 

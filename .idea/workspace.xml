@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f3bb0b7f-ef3d-4c2b-89e7-e9c64d4e8f1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/abstract_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" afterPath="$PROJECT_DIR$/src/features/step_definitions/home_page.rb" />
     </list>
     <ignored path="InterestDebt.iws" />
@@ -111,8 +110,8 @@
       <file leaf-file-name="home_page.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42625368">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.47640118">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -727,7 +726,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453133855026</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="test CI">
+      <created>1453187891106</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1453187891106</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1441,8 +1446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/features/step_definitions/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42625368">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.47640118">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
